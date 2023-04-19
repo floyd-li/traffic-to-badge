@@ -35,7 +35,7 @@ jobs:
         id: traffic
         uses: yi-Xu-0100/traffic-to-badge@v1.4.0
         with:
-          my_token: ${{ secrets.ACTIONS_TRIGGER_PAT }}
+          my_token: ${{ secrets.TRAFFIC_TOKEN }}
           static_list: '${{ steps.repo.outputs.repoList }}'
           traffic_branch: 'main'
           #(default) views_color: brightgreen

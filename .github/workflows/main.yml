@@ -37,7 +37,6 @@ jobs:
         with:
           my_token: ${{ secrets.TRAFFIC_TOKEN }}
           static_list: '${{ steps.repo.outputs.repoList }}'
-          traffic_branch: 'main'
           #(default) views_color: brightgreen
           #(default) clones_color: brightgreen
           #(default) views_week_color: brightgreen

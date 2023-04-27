@@ -2,49 +2,7 @@
   {
     "path": "/floyd-li/itheme-demo-site",
     "title": "GitHub - floyd-li/itheme-demo-site: a demo site for hugo-theme-itheme",
-    "count": 15,
-    "uniques": 9
-  },
-  {
-    "path": "/floyd-li/itheme-demo-site/tree/main/content",
-    "title": "itheme-demo-site/content at main · floyd-li/itheme-demo-site",
-    "count": 9,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/itheme-demo-site/blob/main/content/about.md",
-    "title": "itheme-demo-site/about.md at main · floyd-li/itheme-demo-site · GitHub",
-    "count": 7,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/itheme-demo-site/blob/main/content/posts/apple.md",
-    "title": "itheme-demo-site/apple.md at main · floyd-li/itheme-demo-site · GitHub",
-    "count": 6,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/itheme-demo-site/tree/main/content/posts",
-    "title": "itheme-demo-site/content/posts at main · floyd-li/itheme-demo-site · GitHub",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/itheme-demo-site/blob/main/.github/workflows/update-theme.yml",
-    "title": "itheme-demo-site/update-theme.yml at main · floyd-li/itheme-demo-site",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/itheme-demo-site/tree/main",
-    "title": "floyd-li/itheme-demo-site: a demo site for hugo-theme-itheme",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/itheme-demo-site/tree/main/.github/workflows",
-    "title": "itheme-demo-site/.github/workflows at main · floyd-li/itheme-demo-site",
-    "count": 1,
-    "uniques": 1
+    "count": 10,
+    "uniques": 6
   }
 ]

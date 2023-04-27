@@ -1,27 +1,27 @@
 [
   {
     "referrer": "themes.gohugo.io",
-    "count": 185,
-    "uniques": 22
+    "count": 183,
+    "uniques": 20
   },
   {
     "referrer": "github.com",
-    "count": 13,
-    "uniques": 4
-  },
-  {
-    "referrer": "hugo-theme-itheme.netlify.app",
-    "count": 4,
+    "count": 12,
     "uniques": 3
   },
   {
     "referrer": "hugothemesfree.com",
-    "count": 4,
-    "uniques": 2
+    "count": 5,
+    "uniques": 3
   },
   {
     "referrer": "v2ex.com",
     "count": 3,
     "uniques": 3
+  },
+  {
+    "referrer": "hugo-theme-itheme.netlify.app",
+    "count": 2,
+    "uniques": 1
   }
 ]

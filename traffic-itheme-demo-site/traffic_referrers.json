@@ -5,13 +5,13 @@
     "uniques": 2
   },
   {
-    "referrer": "hugo-theme-itheme.netlify.app",
+    "referrer": "themes.gohugo.io",
     "count": 2,
     "uniques": 2
   },
   {
-    "referrer": "themes.gohugo.io",
-    "count": 2,
-    "uniques": 2
+    "referrer": "hugo-theme-itheme.netlify.app",
+    "count": 1,
+    "uniques": 1
   }
 ]

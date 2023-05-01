@@ -2,26 +2,14 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 55,
-    "uniques": 25
+    "count": 43,
+    "uniques": 23
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
     "title": "hugo-theme-itheme/README_CN.md at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 13,
-    "uniques": 9
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/layouts",
-    "title": "hugo-theme-itheme/layouts at master · floyd-li/hugo-theme-itheme",
-    "count": 8,
-    "uniques": 2
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/config.toml",
-    "title": "hugo-theme-itheme/config.toml at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 8,
-    "uniques": 1
+    "count": 12,
+    "uniques": 8
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/tree/ab94e31b4ad07fd0fd8b39d447dc996e163bb8ae/layouts",
@@ -36,27 +24,39 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/assets/js/initPost.js",
-    "title": "hugo-theme-itheme/initPost.js at master · floyd-li/hugo-theme-itheme · GitHub",
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/config.toml",
+    "title": "hugo-theme-itheme/config.toml at master · floyd-li/hugo-theme-itheme · GitHub",
     "count": 6,
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/layouts/partials",
-    "title": "hugo-theme-itheme/layouts/partials at master · floyd-li/hugo-theme-itheme",
-    "count": 5,
-    "uniques": 2
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/layouts/_default/baseof.html",
-    "title": "hugo-theme-itheme/baseof.html at master · floyd-li/hugo-theme-itheme",
+    "path": "/floyd-li/hugo-theme-itheme/tree/ab94e31b4ad07fd0fd8b39d447dc996e163bb8ae/layouts/posts",
+    "title": "hugo-theme-itheme/layouts/posts at ab94e31b4ad07fd0fd8b39d447dc996e163bb8ae ·...",
     "count": 5,
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/layouts/index.html",
-    "title": "hugo-theme-itheme/index.html at master · floyd-li/hugo-theme-itheme · GitHub",
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite",
+    "title": "hugo-theme-itheme/exampleSite at master · floyd-li/hugo-theme-itheme",
     "count": 5,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite/content",
+    "title": "hugo-theme-itheme/about.md at master · floyd-li/hugo-theme-itheme · GitHub",
+    "count": 5,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/issues",
+    "title": "Issues · floyd-li/hugo-theme-itheme",
+    "count": 4,
+    "uniques": 4
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/ab94e31b4ad07fd0fd8b39d447dc996e163bb8ae/layouts/posts/list.html",
+    "title": "hugo-theme-itheme/list.html at ab94e31b4ad07fd0fd8b39d447dc996e163bb8ae · flo...",
+    "count": 4,
     "uniques": 1
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "referrer": "themes.gohugo.io",
+    "referrer": "github.com",
     "count": 2,
     "uniques": 2
   },
@@ -10,7 +10,7 @@
     "uniques": 1
   },
   {
-    "referrer": "github.com",
+    "referrer": "themes.gohugo.io",
     "count": 1,
     "uniques": 1
   }

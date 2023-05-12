@@ -2,8 +2,8 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 32,
-    "uniques": 20
+    "count": 34,
+    "uniques": 21
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/issues",
@@ -16,6 +16,12 @@
     "title": "hugo-theme-itheme/README_CN.md at master · floyd-li/hugo-theme-itheme · GitHub",
     "count": 12,
     "uniques": 7
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/issues/1",
+    "title": "Roadmap · Issue #1 · floyd-li/hugo-theme-itheme",
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/issues/5",
@@ -48,14 +54,8 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/issues/1",
-    "title": "Roadmap · Issue #1 · floyd-li/hugo-theme-itheme",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master",
-    "title": "floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
+    "path": "/floyd-li/hugo-theme-itheme/pull/2",
+    "title": "Fix broken example config by Soleone · Pull Request #2 · floyd-li/hugo-theme-...",
     "count": 1,
     "uniques": 1
   }

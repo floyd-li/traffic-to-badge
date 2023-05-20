@@ -2,25 +2,13 @@
   {
     "path": "/floyd-li/itheme-demo-site",
     "title": "GitHub - floyd-li/itheme-demo-site: a demo site for hugo-theme-itheme",
-    "count": 13,
-    "uniques": 9
+    "count": 10,
+    "uniques": 7
   },
   {
     "path": "/floyd-li/itheme-demo-site/fork",
     "title": "Fork floyd-li/itheme-demo-site",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/itheme-demo-site/tree/main/content",
-    "title": "itheme-demo-site/content at main · floyd-li/itheme-demo-site",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/itheme-demo-site/tree/main/content/posts",
-    "title": "itheme-demo-site/content/posts at main · floyd-li/itheme-demo-site",
-    "count": 1,
     "uniques": 1
   }
 ]

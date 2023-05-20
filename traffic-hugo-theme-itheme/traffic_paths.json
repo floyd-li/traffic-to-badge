@@ -2,25 +2,25 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 43,
-    "uniques": 22
+    "count": 38,
+    "uniques": 18
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/issues",
     "title": "Issues · floyd-li/hugo-theme-itheme",
-    "count": 19,
-    "uniques": 4
+    "count": 15,
+    "uniques": 2
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
     "title": "hugo-theme-itheme/README_CN.md at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 10,
-    "uniques": 6
+    "count": 9,
+    "uniques": 4
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/pull/13",
     "title": "dark mode by mansoorbarri · Pull Request #13 · floyd-li/hugo-theme-itheme",
-    "count": 6,
+    "count": 8,
     "uniques": 1
   },
   {
@@ -36,27 +36,27 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/issues/5",
-    "title": "date & cover image doesn't show up · Issue #5 · floyd-li/hugo-theme-itheme",
+    "path": "/floyd-li/hugo-theme-itheme/issues/10",
+    "title": "Suggestions: More flexibility for headers, footers and cover images · Issue #...",
     "count": 3,
-    "uniques": 3
+    "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/issues/6",
-    "title": "Pictures don't seem to be working · Issue #6 · floyd-li/hugo-theme-itheme",
-    "count": 3,
-    "uniques": 3
+    "path": "/floyd-li/hugo-theme-itheme/issues/1",
+    "title": "Roadmap · Issue #1 · floyd-li/hugo-theme-itheme",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/compare/master...master",
+    "title": "Comparing master...master · floyd-li/hugo-theme-itheme",
+    "count": 2,
+    "uniques": 1
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/issues/4",
-    "title": "增加: 文章目录 · Issue #4 · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/issues/7",
-    "title": "Page Not Found · Issue #7 · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 3,
-    "uniques": 2
+    "title": "增加: 文章目录 · Issue #4 · floyd-li/hugo-theme-itheme",
+    "count": 2,
+    "uniques": 1
   }
 ]

@@ -2,13 +2,13 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 52,
-    "uniques": 25
+    "count": 54,
+    "uniques": 27
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/pull/13",
     "title": "dark mode by mansoorbarri · Pull Request #13 · floyd-li/hugo-theme-itheme",
-    "count": 16,
+    "count": 17,
     "uniques": 2
   },
   {
@@ -18,9 +18,21 @@
     "uniques": 6
   },
   {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/static",
+    "title": "hugo-theme-itheme/static at master · floyd-li/hugo-theme-itheme · GitHub",
+    "count": 13,
+    "uniques": 3
+  },
+  {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite",
     "title": "hugo-theme-itheme/exampleSite at master · floyd-li/hugo-theme-itheme",
     "count": 10,
+    "uniques": 3
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/static/css",
+    "title": "hugo-theme-itheme/static/css at master · floyd-li/hugo-theme-itheme · GitHub",
+    "count": 7,
     "uniques": 3
   },
   {
@@ -30,33 +42,21 @@
     "uniques": 3
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/pulls",
-    "title": "Pull requests · floyd-li/hugo-theme-itheme",
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/layouts",
+    "title": "hugo-theme-itheme/layouts at master · floyd-li/hugo-theme-itheme",
     "count": 5,
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/static",
-    "title": "hugo-theme-itheme/static at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 4,
-    "uniques": 2
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/compare",
-    "title": "Compare · floyd-li/hugo-theme-itheme",
-    "count": 4,
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/layouts/_default",
+    "title": "hugo-theme-itheme/layouts/_default at master · floyd-li/hugo-theme-itheme · G...",
+    "count": 5,
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/config.toml",
-    "title": "hugo-theme-itheme/config.toml at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite/content",
-    "title": "hugo-theme-itheme/exampleSite/content at master · floyd-li/hugo-theme-itheme ...",
-    "count": 3,
-    "uniques": 2
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/layouts/_default/_markup",
+    "title": "hugo-theme-itheme/layouts/_default/_markup at master · floyd-li/hugo-theme-it...",
+    "count": 5,
+    "uniques": 1
   }
 ]

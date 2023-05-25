@@ -12,16 +12,16 @@
     "uniques": 2
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
-    "title": "hugo-theme-itheme/README_CN.md at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 13,
-    "uniques": 6
-  },
-  {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/static",
     "title": "hugo-theme-itheme/static at master · floyd-li/hugo-theme-itheme · GitHub",
     "count": 13,
     "uniques": 3
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
+    "title": "hugo-theme-itheme/README_CN.md at master · floyd-li/hugo-theme-itheme · GitHub",
+    "count": 12,
+    "uniques": 5
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite",

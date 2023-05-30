@@ -6,12 +6,6 @@
     "uniques": 2
   },
   {
-    "path": "/floyd-li/itheme-demo-site",
-    "title": "floyd-li/itheme-demo-site: a demo site for hugo-theme-itheme",
-    "count": 9,
-    "uniques": 6
-  },
-  {
     "path": "/floyd-li/itheme-demo-site/tree/main/themes",
     "title": "itheme-demo-site/themes at main · floyd-li/itheme-demo-site · GitHub",
     "count": 9,
@@ -22,6 +16,12 @@
     "title": "itheme-demo-site/content at main · floyd-li/itheme-demo-site · GitHub",
     "count": 8,
     "uniques": 2
+  },
+  {
+    "path": "/floyd-li/itheme-demo-site",
+    "title": "floyd-li/itheme-demo-site: a demo site for hugo-theme-itheme",
+    "count": 7,
+    "uniques": 4
   },
   {
     "path": "/floyd-li/itheme-demo-site/tree/main/archetypes",

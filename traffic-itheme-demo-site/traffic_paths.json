@@ -18,12 +18,6 @@
     "uniques": 2
   },
   {
-    "path": "/floyd-li/itheme-demo-site",
-    "title": "floyd-li/itheme-demo-site: a demo site for hugo-theme-itheme",
-    "count": 7,
-    "uniques": 4
-  },
-  {
     "path": "/floyd-li/itheme-demo-site/tree/main/archetypes",
     "title": "itheme-demo-site/archetypes at main · floyd-li/itheme-demo-site · GitHub",
     "count": 6,
@@ -34,6 +28,12 @@
     "title": "itheme-demo-site/netlify.toml at main · floyd-li/itheme-demo-site · GitHub",
     "count": 6,
     "uniques": 1
+  },
+  {
+    "path": "/floyd-li/itheme-demo-site",
+    "title": "floyd-li/itheme-demo-site: a demo site for hugo-theme-itheme",
+    "count": 5,
+    "uniques": 2
   },
   {
     "path": "/floyd-li/itheme-demo-site/blob/main/.github/workflows/update-theme.yml",

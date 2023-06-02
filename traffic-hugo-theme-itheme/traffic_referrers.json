@@ -1,23 +1,28 @@
 [
   {
     "referrer": "github.com",
-    "count": 53,
+    "count": 54,
     "uniques": 7
   },
   {
     "referrer": "themes.gohugo.io",
-    "count": 20,
+    "count": 21,
     "uniques": 7
-  },
-  {
-    "referrer": "creative-color-design.github.io",
-    "count": 14,
-    "uniques": 1
   },
   {
     "referrer": "hugothemesfree.com",
     "count": 9,
     "uniques": 5
+  },
+  {
+    "referrer": "creative-color-design.github.io",
+    "count": 7,
+    "uniques": 1
+  },
+  {
+    "referrer": "hugo-theme-itheme.netlify.app",
+    "count": 6,
+    "uniques": 2
   },
   {
     "referrer": "v2ex.com",
@@ -31,11 +36,6 @@
   },
   {
     "referrer": "trentsonlinedocs.xyz",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "hugo-theme-itheme.netlify.app",
     "count": 1,
     "uniques": 1
   },

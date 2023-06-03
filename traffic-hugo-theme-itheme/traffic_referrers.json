@@ -1,18 +1,18 @@
 [
   {
     "referrer": "github.com",
-    "count": 54,
+    "count": 33,
     "uniques": 7
   },
   {
     "referrer": "themes.gohugo.io",
-    "count": 21,
-    "uniques": 7
+    "count": 12,
+    "uniques": 6
   },
   {
     "referrer": "hugothemesfree.com",
-    "count": 9,
-    "uniques": 5
+    "count": 8,
+    "uniques": 4
   },
   {
     "referrer": "creative-color-design.github.io",
@@ -25,12 +25,12 @@
     "uniques": 2
   },
   {
-    "referrer": "v2ex.com",
-    "count": 2,
-    "uniques": 2
+    "referrer": "2design.rr.nu",
+    "count": 1,
+    "uniques": 1
   },
   {
-    "referrer": "2design.rr.nu",
+    "referrer": "v2ex.com",
     "count": 1,
     "uniques": 1
   },

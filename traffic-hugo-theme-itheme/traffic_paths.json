@@ -2,19 +2,13 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 43,
-    "uniques": 23
+    "count": 32,
+    "uniques": 18
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/static",
     "title": "hugo-theme-itheme/static at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 18,
-    "uniques": 4
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite",
-    "title": "hugo-theme-itheme/exampleSite at master · floyd-li/hugo-theme-itheme",
-    "count": 10,
+    "count": 17,
     "uniques": 3
   },
   {
@@ -26,14 +20,8 @@
   {
     "path": "/floyd-li/hugo-theme-itheme/pull/13",
     "title": "dark mode by mansoorbarri · Pull Request #13 · floyd-li/hugo-theme-itheme",
-    "count": 9,
+    "count": 8,
     "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/static/css",
-    "title": "hugo-theme-itheme/static/css at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 7,
-    "uniques": 3
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/layouts",
@@ -42,21 +30,33 @@
     "uniques": 2
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/issues",
-    "title": "Issues · floyd-li/hugo-theme-itheme",
-    "count": 5,
-    "uniques": 4
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master",
-    "title": "floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 5,
-    "uniques": 4
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/static/css",
+    "title": "hugo-theme-itheme/static/css at master · floyd-li/hugo-theme-itheme · GitHub",
+    "count": 6,
+    "uniques": 2
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/layouts/_default",
     "title": "hugo-theme-itheme/layouts/_default at master · floyd-li/hugo-theme-itheme · G...",
     "count": 5,
     "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/layouts/_default/_markup",
+    "title": "hugo-theme-itheme/layouts/_default/_markup at master · floyd-li/hugo-theme-it...",
+    "count": 5,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/static/js",
+    "title": "hugo-theme-itheme/static/js at master · floyd-li/hugo-theme-itheme · GitHub",
+    "count": 5,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/issues",
+    "title": "Issues · floyd-li/hugo-theme-itheme",
+    "count": 4,
+    "uniques": 4
   }
 ]

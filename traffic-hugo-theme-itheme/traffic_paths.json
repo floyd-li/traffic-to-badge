@@ -2,14 +2,8 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 35,
-    "uniques": 18
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/static",
-    "title": "hugo-theme-itheme/static at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 16,
-    "uniques": 3
+    "count": 31,
+    "uniques": 16
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
@@ -18,45 +12,51 @@
     "uniques": 6
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/layouts",
-    "title": "hugo-theme-itheme/layouts at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 6,
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/static",
+    "title": "hugo-theme-itheme/static at master · floyd-li/hugo-theme-itheme",
+    "count": 7,
     "uniques": 2
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/static/css",
-    "title": "hugo-theme-itheme/static/css at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 6,
-    "uniques": 2
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/layouts/_default",
-    "title": "hugo-theme-itheme/layouts/_default at master · floyd-li/hugo-theme-itheme · G...",
-    "count": 5,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/layouts/_default/_markup",
-    "title": "hugo-theme-itheme/layouts/_default/_markup at master · floyd-li/hugo-theme-it...",
-    "count": 5,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/static/js",
-    "title": "hugo-theme-itheme/static/js at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 5,
-    "uniques": 1
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/tree/master",
     "title": "floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 4,
-    "uniques": 3
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/issues",
+    "title": "Issues · floyd-li/hugo-theme-itheme",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/README.md",
+    "title": "hugo-theme-itheme/README.md at master · floyd-li/hugo-theme-itheme · GitHub",
+    "count": 2,
+    "uniques": 1
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/static/css/global.css",
     "title": "hugo-theme-itheme/global.css at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 4,
-    "uniques": 2
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/static/css",
+    "title": "hugo-theme-itheme/static/css at master · floyd-li/hugo-theme-itheme · GitHub",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/issues/10",
+    "title": "Suggestions: More flexibility for headers, footers and cover images · Issue #...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/issues/14",
+    "title": "Small bug: images not appearing at load time on Safari · Issue #14 · floyd-li...",
+    "count": 1,
+    "uniques": 1
   }
 ]

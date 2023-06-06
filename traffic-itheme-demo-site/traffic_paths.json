@@ -8,8 +8,14 @@
   {
     "path": "/floyd-li/itheme-demo-site",
     "title": "floyd-li/itheme-demo-site: a demo site for hugo-theme-itheme",
+    "count": 8,
+    "uniques": 7
+  },
+  {
+    "path": "/floyd-li/itheme-demo-site/blob/main/config.toml",
+    "title": "itheme-demo-site/config.toml at main · floyd-li/itheme-demo-site · GitHub",
     "count": 6,
-    "uniques": 6
+    "uniques": 2
   },
   {
     "path": "/floyd-li/itheme-demo-site/tree/main/content",
@@ -42,20 +48,14 @@
     "uniques": 1
   },
   {
+    "path": "/floyd-li/itheme-demo-site/blame/main/config.toml",
+    "title": "Blaming itheme-demo-site/config.toml at main · floyd-li/itheme-demo-site · Gi...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
     "path": "/floyd-li/itheme-demo-site/blob/main/content/posts/apple-introduces-the-new-homepod-with-breakthrough-sound-and-intelligence.md",
     "title": "itheme-demo-site/apple-introduces-the-new-homepod-with-breakthrough-sound-and...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/itheme-demo-site/blob/main/content/posts/mark-down-syntax.md",
-    "title": "itheme-demo-site/mark-down-syntax.md at main · floyd-li/itheme-demo-site · Gi...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/itheme-demo-site/blob/main/.github/workflows/update-theme.yml",
-    "title": "itheme-demo-site/update-theme.yml at main · floyd-li/itheme-demo-site · GitHub",
     "count": 2,
     "uniques": 1
   }

@@ -1,13 +1,18 @@
 [
   {
     "referrer": "themes.gohugo.io",
-    "count": 45,
-    "uniques": 9
+    "count": 48,
+    "uniques": 11
   },
   {
     "referrer": "github.com",
-    "count": 20,
-    "uniques": 8
+    "count": 22,
+    "uniques": 10
+  },
+  {
+    "referrer": "hugo-theme-itheme.netlify.app",
+    "count": 8,
+    "uniques": 2
   },
   {
     "referrer": "hugothemesfree.com",
@@ -18,10 +23,5 @@
     "referrer": "reionwong.life",
     "count": 5,
     "uniques": 2
-  },
-  {
-    "referrer": "hugo-theme-itheme.netlify.app",
-    "count": 5,
-    "uniques": 1
   }
 ]

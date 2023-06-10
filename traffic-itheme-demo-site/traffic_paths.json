@@ -2,32 +2,14 @@
   {
     "path": "/floyd-li/itheme-demo-site",
     "title": "floyd-li/itheme-demo-site: a demo site for hugo-theme-itheme",
-    "count": 7,
-    "uniques": 6
+    "count": 8,
+    "uniques": 7
   },
   {
     "path": "/floyd-li/itheme-demo-site/blob/main/config.toml",
     "title": "itheme-demo-site/config.toml at main · floyd-li/itheme-demo-site · GitHub",
     "count": 6,
     "uniques": 2
-  },
-  {
-    "path": "/floyd-li/itheme-demo-site/tree/main/themes",
-    "title": "itheme-demo-site/themes at main · floyd-li/itheme-demo-site · GitHub",
-    "count": 5,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/itheme-demo-site/tree/main/archetypes",
-    "title": "itheme-demo-site/archetypes at main · floyd-li/itheme-demo-site · GitHub",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/itheme-demo-site/tree/main/.github/workflows",
-    "title": "itheme-demo-site/.github/workflows at main · floyd-li/itheme-demo-site",
-    "count": 3,
-    "uniques": 1
   },
   {
     "path": "/floyd-li/itheme-demo-site/blame/main/config.toml",
@@ -48,14 +30,20 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/itheme-demo-site/blob/main/.github/workflows/update-theme.yml",
-    "title": "itheme-demo-site/update-theme.yml at main · floyd-li/itheme-demo-site · GitHub",
+    "path": "/floyd-li/itheme-demo-site/tree/main/content",
+    "title": "itheme-demo-site/content at main · floyd-li/itheme-demo-site",
     "count": 2,
     "uniques": 1
   },
   {
-    "path": "/floyd-li/itheme-demo-site/tree/main/content",
-    "title": "itheme-demo-site/content at main · floyd-li/itheme-demo-site",
+    "path": "/floyd-li/itheme-demo-site/tree/main/content/posts",
+    "title": "itheme-demo-site/content/posts at main · floyd-li/itheme-demo-site · GitHub",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/itheme-demo-site/tree/main/themes",
+    "title": "itheme-demo-site/themes at main · floyd-li/itheme-demo-site · GitHub",
     "count": 2,
     "uniques": 1
   }

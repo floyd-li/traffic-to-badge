@@ -1,13 +1,13 @@
 [
   {
     "referrer": "themes.gohugo.io",
-    "count": 48,
+    "count": 47,
     "uniques": 11
   },
   {
     "referrer": "github.com",
-    "count": 21,
-    "uniques": 10
+    "count": 42,
+    "uniques": 11
   },
   {
     "referrer": "hugo-theme-itheme.netlify.app",
@@ -23,5 +23,15 @@
     "referrer": "reionwong.life",
     "count": 5,
     "uniques": 2
+  },
+  {
+    "referrer": "v2ex.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "feedly.com",
+    "count": 1,
+    "uniques": 1
   }
 ]

@@ -10,14 +10,14 @@
     "uniques": 11
   },
   {
-    "referrer": "hugothemesfree.com",
-    "count": 8,
-    "uniques": 5
-  },
-  {
     "referrer": "hugo-theme-itheme.netlify.app",
     "count": 8,
     "uniques": 2
+  },
+  {
+    "referrer": "hugothemesfree.com",
+    "count": 6,
+    "uniques": 4
   },
   {
     "referrer": "v2ex.com",

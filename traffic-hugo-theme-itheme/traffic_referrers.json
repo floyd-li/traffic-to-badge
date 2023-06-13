@@ -10,14 +10,19 @@
     "uniques": 11
   },
   {
+    "referrer": "hugothemesfree.com",
+    "count": 11,
+    "uniques": 6
+  },
+  {
     "referrer": "hugo-theme-itheme.netlify.app",
     "count": 8,
     "uniques": 2
   },
   {
-    "referrer": "hugothemesfree.com",
-    "count": 6,
-    "uniques": 4
+    "referrer": "2design.rr.nu",
+    "count": 8,
+    "uniques": 1
   },
   {
     "referrer": "v2ex.com",
@@ -28,11 +33,6 @@
     "referrer": "reionwong.life",
     "count": 5,
     "uniques": 2
-  },
-  {
-    "referrer": "2design.rr.nu",
-    "count": 2,
-    "uniques": 1
   },
   {
     "referrer": "feedly.com",

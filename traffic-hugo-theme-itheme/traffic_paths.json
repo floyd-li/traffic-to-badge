@@ -2,25 +2,19 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 39,
-    "uniques": 20
+    "count": 37,
+    "uniques": 19
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
     "title": "hugo-theme-itheme/README_CN.md at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 17,
-    "uniques": 7
+    "count": 18,
+    "uniques": 6
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/layouts",
     "title": "hugo-theme-itheme/layouts at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 11,
-    "uniques": 3
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/layouts/partials",
-    "title": "hugo-theme-itheme/layouts/partials at master · floyd-li/hugo-theme-itheme · G...",
-    "count": 8,
+    "count": 6,
     "uniques": 2
   },
   {
@@ -30,32 +24,38 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/layouts/_default",
-    "title": "hugo-theme-itheme/layouts/_default at master · floyd-li/hugo-theme-itheme · G...",
+    "path": "/floyd-li/hugo-theme-itheme/issues",
+    "title": "Issues · floyd-li/hugo-theme-itheme · GitHub",
+    "count": 4,
+    "uniques": 3
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/pulls",
+    "title": "Pull requests · floyd-li/hugo-theme-itheme",
     "count": 4,
     "uniques": 2
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/static/css",
-    "title": "hugo-theme-itheme/static/css at master · floyd-li/hugo-theme-itheme · GitHub",
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/layouts/partials",
+    "title": "hugo-theme-itheme/layouts/partials at master · floyd-li/hugo-theme-itheme · G...",
     "count": 4,
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/static",
-    "title": "hugo-theme-itheme/static at master · floyd-li/hugo-theme-itheme · GitHub",
+    "path": "/floyd-li/hugo-theme-itheme/pull/13",
+    "title": "dark mode by mansoorbarri · Pull Request #13 · floyd-li/hugo-theme-itheme",
     "count": 3,
-    "uniques": 1
+    "uniques": 2
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/pull/13/files",
+    "title": "dark mode by mansoorbarri · Pull Request #13 · floyd-li/hugo-theme-itheme",
+    "count": 3,
+    "uniques": 2
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/fork",
     "title": "Fork floyd-li/hugo-theme-itheme",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/issues",
-    "title": "Issues · floyd-li/hugo-theme-itheme · GitHub",
     "count": 2,
     "uniques": 2
   }

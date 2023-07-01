@@ -1,15 +1,15 @@
 [
   {
+    "path": "/floyd-li/itheme-demo-site",
+    "title": "floyd-li/itheme-demo-site: a demo site for hugo-theme-itheme",
+    "count": 7,
+    "uniques": 6
+  },
+  {
     "path": "/floyd-li/itheme-demo-site/blob/main/config.toml",
     "title": "itheme-demo-site/config.toml at main · floyd-li/itheme-demo-site · GitHub",
     "count": 7,
     "uniques": 2
-  },
-  {
-    "path": "/floyd-li/itheme-demo-site",
-    "title": "floyd-li/itheme-demo-site: a demo site for hugo-theme-itheme",
-    "count": 6,
-    "uniques": 5
   },
   {
     "path": "/floyd-li/itheme-demo-site/tree/main/.github/workflows",

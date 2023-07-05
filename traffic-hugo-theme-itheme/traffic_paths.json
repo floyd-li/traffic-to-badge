@@ -2,7 +2,7 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 40,
+    "count": 39,
     "uniques": 18
   },
   {
@@ -26,18 +26,12 @@
   {
     "path": "/floyd-li/hugo-theme-itheme/pull/13",
     "title": "dark mode by mansoorbarri · Pull Request #13 · floyd-li/hugo-theme-itheme",
-    "count": 4,
+    "count": 3,
     "uniques": 3
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/pulls",
     "title": "Pull requests · floyd-li/hugo-theme-itheme",
-    "count": 4,
-    "uniques": 2
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/pull/13/files",
-    "title": "dark mode by mansoorbarri · Pull Request #13 · floyd-li/hugo-theme-itheme",
     "count": 3,
     "uniques": 2
   },
@@ -56,6 +50,12 @@
   {
     "path": "/floyd-li/hugo-theme-itheme/issues/1",
     "title": "Roadmap · Issue #1 · floyd-li/hugo-theme-itheme · GitHub",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/pull/13/files",
+    "title": "dark mode by mansoorbarri · Pull Request #13 · floyd-li/hugo-theme-itheme",
     "count": 2,
     "uniques": 2
   }

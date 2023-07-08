@@ -1,10 +1,5 @@
 [
   {
-    "referrer": "v2ex.com",
-    "count": 25,
-    "uniques": 4
-  },
-  {
     "referrer": "william-swl.com.cn",
     "count": 22,
     "uniques": 1
@@ -21,8 +16,13 @@
   },
   {
     "referrer": "hugo-theme-itheme.netlify.app",
-    "count": 8,
-    "uniques": 2
+    "count": 7,
+    "uniques": 1
+  },
+  {
+    "referrer": "v2ex.com",
+    "count": 6,
+    "uniques": 4
   },
   {
     "referrer": "hugothemesfree.com",

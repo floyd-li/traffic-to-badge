@@ -2,32 +2,20 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 36,
-    "uniques": 18
+    "count": 38,
+    "uniques": 20
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
     "title": "hugo-theme-itheme/README_CN.md at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 10,
-    "uniques": 4
+    "count": 15,
+    "uniques": 6
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/commits/master",
     "title": "Commits · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 7,
-    "uniques": 2
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/issues",
-    "title": "Issues · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 4,
-    "uniques": 3
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/pull/13",
-    "title": "dark mode by mansoorbarri · Pull Request #13 · floyd-li/hugo-theme-itheme",
-    "count": 4,
-    "uniques": 3
+    "count": 5,
+    "uniques": 1
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/content/posts/mark-down-syntax.md",
@@ -36,8 +24,14 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/pulls",
-    "title": "Pull requests · floyd-li/hugo-theme-itheme",
+    "path": "/floyd-li/hugo-theme-itheme/issues",
+    "title": "Issues · floyd-li/hugo-theme-itheme · GitHub",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/pull/13",
+    "title": "dark mode by mansoorbarri · Pull Request #13 · floyd-li/hugo-theme-itheme",
     "count": 3,
     "uniques": 2
   },
@@ -48,14 +42,20 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/pull/13/files",
-    "title": "dark mode by mansoorbarri · Pull Request #13 · floyd-li/hugo-theme-itheme",
+    "path": "/floyd-li/hugo-theme-itheme/pulls",
+    "title": "Pull requests · floyd-li/hugo-theme-itheme",
     "count": 2,
-    "uniques": 2
+    "uniques": 1
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/archetypes/posts.md",
     "title": "hugo-theme-itheme/archetypes/posts.md at master · floyd-li/hugo-theme-itheme ...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/README.md",
+    "title": "hugo-theme-itheme/README.md at master · floyd-li/hugo-theme-itheme · GitHub",
     "count": 1,
     "uniques": 1
   }

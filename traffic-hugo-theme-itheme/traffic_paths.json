@@ -2,20 +2,14 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "hugo-theme-itheme,hugo的Apple风格主题,下载hugo-theme-itheme的源码_GitHub_帮酷",
-    "count": 35,
-    "uniques": 19
+    "count": 27,
+    "uniques": 18
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
     "title": "hugo-theme-itheme/README_CN.md at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 10,
-    "uniques": 5
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/commits/master",
-    "title": "Commits · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 5,
-    "uniques": 1
+    "count": 6,
+    "uniques": 3
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/content/posts/mark-down-syntax.md",
@@ -24,9 +18,15 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/commit/a2ece16f0944a5fe74fd2bd90ad15ec055a36883",
-    "title": "feat(wip): algolia integration · floyd-li/hugo-theme-itheme@a2ece16 · GitHub",
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/i18n",
+    "title": "hugo-theme-itheme/i18n at master · floyd-li/hugo-theme-itheme · GitHub",
     "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/i18n/en.toml",
+    "title": "hugo-theme-itheme/i18n/en.toml at master · floyd-li/hugo-theme-itheme · GitHub",
+    "count": 2,
     "uniques": 1
   },
   {
@@ -36,26 +36,14 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/archetypes/posts.md",
-    "title": "hugo-theme-itheme/archetypes/posts.md at master · floyd-li/hugo-theme-itheme ...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/README.md",
-    "title": "hugo-theme-itheme/README.md at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/commit/6c7b5b64e8976f57a9f378e41c5d8659110979b1",
-    "title": "wip: update algolia · floyd-li/hugo-theme-itheme@6c7b5b6 · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/floyd-li/hugo-theme-itheme/issues",
-    "title": "Issues · floyd-li/hugo-theme-itheme · GitHub",
+    "title": "Issues · floyd-li/hugo-theme-itheme",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/issues/10",
+    "title": "Suggestions: More flexibility for headers, footers and cover images · Issue #...",
     "count": 1,
     "uniques": 1
   }

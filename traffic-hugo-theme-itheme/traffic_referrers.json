@@ -1,18 +1,8 @@
 [
   {
-    "referrer": "william-swl.com.cn",
-    "count": 22,
-    "uniques": 1
-  },
-  {
     "referrer": "hugothemesfree.com",
-    "count": 9,
-    "uniques": 4
-  },
-  {
-    "referrer": "themes.gohugo.io",
-    "count": 8,
-    "uniques": 4
+    "count": 17,
+    "uniques": 5
   },
   {
     "referrer": "github.com",
@@ -23,6 +13,11 @@
     "referrer": "v2ex.com",
     "count": 6,
     "uniques": 4
+  },
+  {
+    "referrer": "themes.gohugo.io",
+    "count": 4,
+    "uniques": 3
   },
   {
     "referrer": "2design.rr.nu",

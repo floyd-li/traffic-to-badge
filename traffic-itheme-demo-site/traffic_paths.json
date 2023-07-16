@@ -2,7 +2,13 @@
   {
     "path": "/floyd-li/itheme-demo-site",
     "title": "GitHub - floyd-li/itheme-demo-site: a demo site for hugo-theme-itheme",
-    "count": 2,
-    "uniques": 2
+    "count": 5,
+    "uniques": 5
+  },
+  {
+    "path": "/floyd-li/itheme-demo-site/fork",
+    "title": "Fork floyd-li/itheme-demo-site",
+    "count": 1,
+    "uniques": 1
   }
 ]

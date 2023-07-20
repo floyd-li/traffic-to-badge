@@ -1,7 +1,12 @@
 [
   {
     "referrer": "themes.gohugo.io",
-    "count": 2,
-    "uniques": 2
+    "count": 15,
+    "uniques": 3
+  },
+  {
+    "referrer": "hugo-theme-itheme.netlify.app",
+    "count": 1,
+    "uniques": 1
   }
 ]

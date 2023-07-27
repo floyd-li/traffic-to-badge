@@ -5,14 +5,14 @@
     "uniques": 7
   },
   {
-    "referrer": "Google",
-    "count": 9,
-    "uniques": 2
-  },
-  {
     "referrer": "hugothemesfree.com",
     "count": 8,
     "uniques": 5
+  },
+  {
+    "referrer": "v2ex.com",
+    "count": 6,
+    "uniques": 4
   },
   {
     "referrer": "github.com",
@@ -20,9 +20,9 @@
     "uniques": 4
   },
   {
-    "referrer": "v2ex.com",
-    "count": 5,
-    "uniques": 3
+    "referrer": "Google",
+    "count": 4,
+    "uniques": 1
   },
   {
     "referrer": "Bing",

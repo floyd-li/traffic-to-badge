@@ -2,37 +2,61 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 27,
-    "uniques": 22
+    "count": 34,
+    "uniques": 23
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/layouts",
+    "title": "hugo-theme-itheme/layouts at master · floyd-li/hugo-theme-itheme",
+    "count": 32,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/layouts/partials",
+    "title": "hugo-theme-itheme/layouts/partials at master · floyd-li/hugo-theme-itheme",
+    "count": 20,
+    "uniques": 1
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
     "title": "hugo-theme-itheme/README_CN.md at master · floyd-li/hugo-theme-itheme",
+    "count": 16,
+    "uniques": 6
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/layouts/partials/archiveItem.html",
+    "title": "hugo-theme-itheme/layouts/partials/archiveItem.html at master · floyd-li/hugo...",
     "count": 10,
-    "uniques": 5
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master",
+    "title": "floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
+    "count": 10,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/layouts/posts",
+    "title": "hugo-theme-itheme/layouts/posts at master · floyd-li/hugo-theme-itheme",
+    "count": 8,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/static",
+    "title": "hugo-theme-itheme/static at master · floyd-li/hugo-theme-itheme",
+    "count": 7,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/8289e58abc12f47e2f6218aa561552e2a855951d/exampleSite",
+    "title": "hugo-theme-itheme/exampleSite at 8289e58abc12f47e2f6218aa561552e2a855951d · f...",
+    "count": 6,
+    "uniques": 1
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/issues",
     "title": "Issues · floyd-li/hugo-theme-itheme",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/fork",
-    "title": "Fork floyd-li/hugo-theme-itheme",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/issues/1",
-    "title": "Roadmap · Issue #1 · floyd-li/hugo-theme-itheme",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/issues/4",
-    "title": "增加: 文章目录 · Issue #4 · floyd-li/hugo-theme-itheme",
-    "count": 1,
-    "uniques": 1
+    "count": 5,
+    "uniques": 4
   }
 ]

@@ -64,6 +64,36 @@
 [![clones per week](https://raw.githubusercontent.com/floyd-li/traffic-to-badge/traffic/traffic-1701_Project/clones_per_week.svg)](https://github.com/floyd-li/traffic-to-badge/tree/traffic#-1701_Project)
 ```
 
+## 📚 [better-chinese-font-display](https://github.com/floyd-li/traffic-to-badge/tree/traffic/traffic-better-chinese-font-display)
+
+### 📷 Badges without link of [better-chinese-font-display](https://github.com/floyd-li/traffic-to-badge/tree/traffic/traffic-better-chinese-font-display)
+
+![views](https://raw.githubusercontent.com/floyd-li/traffic-to-badge/traffic/traffic-better-chinese-font-display/views.svg)
+![views per week](https://raw.githubusercontent.com/floyd-li/traffic-to-badge/traffic/traffic-better-chinese-font-display/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/floyd-li/traffic-to-badge/traffic/traffic-better-chinese-font-display/clones.svg)
+![clones per week](https://raw.githubusercontent.com/floyd-li/traffic-to-badge/traffic/traffic-better-chinese-font-display/clones_per_week.svg)
+
+```markdown
+![views](https://raw.githubusercontent.com/floyd-li/traffic-to-badge/traffic/traffic-better-chinese-font-display/views.svg)
+![views per week](https://raw.githubusercontent.com/floyd-li/traffic-to-badge/traffic/traffic-better-chinese-font-display/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/floyd-li/traffic-to-badge/traffic/traffic-better-chinese-font-display/clones.svg)
+![clones per week](https://raw.githubusercontent.com/floyd-li/traffic-to-badge/traffic/traffic-better-chinese-font-display/clones_per_week.svg)
+```
+
+### 🔗 Badges with link of [better-chinese-font-display](https://github.com/floyd-li/traffic-to-badge/tree/traffic/traffic-better-chinese-font-display)
+
+[![views](https://raw.githubusercontent.com/floyd-li/traffic-to-badge/traffic/traffic-better-chinese-font-display/views.svg)](https://github.com/floyd-li/traffic-to-badge/tree/traffic#-better-chinese-font-display)
+[![views per week](https://raw.githubusercontent.com/floyd-li/traffic-to-badge/traffic/traffic-better-chinese-font-display/views_per_week.svg)](https://github.com/floyd-li/traffic-to-badge/tree/traffic#-better-chinese-font-display)
+[![clones](https://raw.githubusercontent.com/floyd-li/traffic-to-badge/traffic/traffic-better-chinese-font-display/clones.svg)](https://github.com/floyd-li/traffic-to-badge/tree/traffic#-better-chinese-font-display)
+[![clones per week](https://raw.githubusercontent.com/floyd-li/traffic-to-badge/traffic/traffic-better-chinese-font-display/clones_per_week.svg)](https://github.com/floyd-li/traffic-to-badge/tree/traffic#-better-chinese-font-display)
+
+```markdown
+[![views](https://raw.githubusercontent.com/floyd-li/traffic-to-badge/traffic/traffic-better-chinese-font-display/views.svg)](https://github.com/floyd-li/traffic-to-badge/tree/traffic#-better-chinese-font-display)
+[![views per week](https://raw.githubusercontent.com/floyd-li/traffic-to-badge/traffic/traffic-better-chinese-font-display/views_per_week.svg)](https://github.com/floyd-li/traffic-to-badge/tree/traffic#-better-chinese-font-display)
+[![clones](https://raw.githubusercontent.com/floyd-li/traffic-to-badge/traffic/traffic-better-chinese-font-display/clones.svg)](https://github.com/floyd-li/traffic-to-badge/tree/traffic#-better-chinese-font-display)
+[![clones per week](https://raw.githubusercontent.com/floyd-li/traffic-to-badge/traffic/traffic-better-chinese-font-display/clones_per_week.svg)](https://github.com/floyd-li/traffic-to-badge/tree/traffic#-better-chinese-font-display)
+```
+
 ## 📚 [deploy-cli](https://github.com/floyd-li/traffic-to-badge/tree/traffic/traffic-deploy-cli)
 
 ### 📷 Badges without link of [deploy-cli](https://github.com/floyd-li/traffic-to-badge/tree/traffic/traffic-deploy-cli)

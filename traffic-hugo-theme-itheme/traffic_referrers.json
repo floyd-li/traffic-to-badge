@@ -1,8 +1,8 @@
 [
   {
     "referrer": "github.com",
-    "count": 99,
-    "uniques": 10
+    "count": 97,
+    "uniques": 8
   },
   {
     "referrer": "v2ex.com",
@@ -11,8 +11,13 @@
   },
   {
     "referrer": "themes.gohugo.io",
-    "count": 14,
-    "uniques": 5
+    "count": 12,
+    "uniques": 3
+  },
+  {
+    "referrer": "Google",
+    "count": 4,
+    "uniques": 1
   },
   {
     "referrer": "Bing",

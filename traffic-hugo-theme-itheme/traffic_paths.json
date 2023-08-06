@@ -8,8 +8,8 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 29,
-    "uniques": 19
+    "count": 27,
+    "uniques": 17
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/layouts/partials",
@@ -54,9 +54,9 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/static/css",
-    "title": "Error",
+    "path": "/floyd-li/hugo-theme-itheme/issues",
+    "title": "Issues · floyd-li/hugo-theme-itheme",
     "count": 5,
-    "uniques": 1
+    "uniques": 5
   }
 ]

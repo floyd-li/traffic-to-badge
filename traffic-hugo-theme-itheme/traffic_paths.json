@@ -2,8 +2,8 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 19,
-    "uniques": 16
+    "count": 18,
+    "uniques": 14
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
@@ -12,28 +12,22 @@
     "uniques": 4
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite",
-    "title": "hugo-theme-itheme/exampleSite at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 6,
-    "uniques": 2
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite/content",
-    "title": "hugo-theme-itheme/exampleSite/content at master · floyd-li/hugo-theme-itheme ...",
-    "count": 6,
-    "uniques": 2
-  },
-  {
     "path": "/floyd-li/hugo-theme-itheme/issues",
     "title": "Issues · floyd-li/hugo-theme-itheme",
     "count": 4,
     "uniques": 3
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite/content/posts",
-    "title": "hugo-theme-itheme/exampleSite/content/posts at master · floyd-li/hugo-theme-i...",
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite",
+    "title": "hugo-theme-itheme/exampleSite at master · floyd-li/hugo-theme-itheme",
     "count": 4,
-    "uniques": 2
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite/content",
+    "title": "hugo-theme-itheme/exampleSite/content at master · floyd-li/hugo-theme-itheme",
+    "count": 4,
+    "uniques": 1
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/issues/1",
@@ -48,8 +42,8 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/content/posts/apple.md",
-    "title": "hugo-theme-itheme/exampleSite/content/posts/apple.md at master · floyd-li/hug...",
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite/content/posts",
+    "title": "hugo-theme-itheme/exampleSite/content/posts at master · floyd-li/hugo-theme-i...",
     "count": 2,
     "uniques": 1
   },
@@ -57,6 +51,12 @@
     "path": "/floyd-li/hugo-theme-itheme/tree/master/i18n",
     "title": "hugo-theme-itheme/i18n at master · floyd-li/hugo-theme-itheme · GitHub",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/commit/8289e58abc12f47e2f6218aa561552e2a855951d",
+    "title": "Merge pull request #18 from dombyte/master · floyd-li/hugo-theme-itheme@8289e58",
+    "count": 1,
     "uniques": 1
   }
 ]

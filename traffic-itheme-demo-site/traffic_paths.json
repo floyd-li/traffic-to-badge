@@ -2,7 +2,61 @@
   {
     "path": "/floyd-li/itheme-demo-site",
     "title": "GitHub - floyd-li/itheme-demo-site: a demo site for hugo-theme-itheme",
+    "count": 12,
+    "uniques": 7
+  },
+  {
+    "path": "/floyd-li/itheme-demo-site/blob/main/content/about.md",
+    "title": "itheme-demo-site/content/about.md at main · floyd-li/itheme-demo-site",
+    "count": 12,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/itheme-demo-site/blob/main/content/posts/apple-introduces-the-new-homepod-with-breakthrough-sound-and-intelligence.md",
+    "title": "itheme-demo-site/content/posts/apple-introduces-the-new-homepod-with-breakthr...",
+    "count": 12,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/itheme-demo-site/blob/main/content/posts/mark-down-syntax.md",
+    "title": "itheme-demo-site/content/posts/mark-down-syntax.md at main · floyd-li/itheme-...",
     "count": 8,
-    "uniques": 5
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/itheme-demo-site/blob/main/content/posts/apple-launches-freeform-a-powerful-new-app-designed-for-creative-collaboration.md",
+    "title": "itheme-demo-site/content/posts/apple-launches-freeform-a-powerful-new-app-des...",
+    "count": 6,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/itheme-demo-site/blob/main/content/posts/the-first-year-out-moving-from-student-to-3d-artist.md",
+    "title": "itheme-demo-site/content/posts/the-first-year-out-moving-from-student-to-3d-a...",
+    "count": 6,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/itheme-demo-site/tree/main/content",
+    "title": "itheme-demo-site/content at main · floyd-li/itheme-demo-site",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/itheme-demo-site/tree/main/content/posts",
+    "title": "itheme-demo-site/content/posts at main · floyd-li/itheme-demo-site",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/itheme-demo-site/blob/main/config.toml",
+    "title": "itheme-demo-site/config.toml at main · floyd-li/itheme-demo-site",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/itheme-demo-site/blob/main/.hugo_build.lock",
+    "title": "itheme-demo-site/.hugo_build.lock at main · floyd-li/itheme-demo-site",
+    "count": 2,
+    "uniques": 1
   }
 ]

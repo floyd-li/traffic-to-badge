@@ -1,11 +1,5 @@
 [
   {
-    "path": "/floyd-li/itheme-demo-site",
-    "title": "GitHub - floyd-li/itheme-demo-site: a demo site for hugo-theme-itheme",
-    "count": 12,
-    "uniques": 7
-  },
-  {
     "path": "/floyd-li/itheme-demo-site/blob/main/content/about.md",
     "title": "itheme-demo-site/content/about.md at main · floyd-li/itheme-demo-site",
     "count": 12,
@@ -16,6 +10,12 @@
     "title": "itheme-demo-site/content/posts/apple-introduces-the-new-homepod-with-breakthr...",
     "count": 12,
     "uniques": 1
+  },
+  {
+    "path": "/floyd-li/itheme-demo-site",
+    "title": "GitHub - floyd-li/itheme-demo-site: a demo site for hugo-theme-itheme",
+    "count": 11,
+    "uniques": 6
   },
   {
     "path": "/floyd-li/itheme-demo-site/blob/main/content/posts/mark-down-syntax.md",

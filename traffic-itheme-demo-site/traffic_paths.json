@@ -12,16 +12,16 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/itheme-demo-site",
-    "title": "GitHub - floyd-li/itheme-demo-site: a demo site for hugo-theme-itheme",
-    "count": 11,
-    "uniques": 6
-  },
-  {
     "path": "/floyd-li/itheme-demo-site/blob/main/content/posts/mark-down-syntax.md",
     "title": "itheme-demo-site/content/posts/mark-down-syntax.md at main · floyd-li/itheme-...",
     "count": 8,
     "uniques": 1
+  },
+  {
+    "path": "/floyd-li/itheme-demo-site",
+    "title": "GitHub - floyd-li/itheme-demo-site: a demo site for hugo-theme-itheme",
+    "count": 7,
+    "uniques": 5
   },
   {
     "path": "/floyd-li/itheme-demo-site/blob/main/content/posts/apple-launches-freeform-a-powerful-new-app-designed-for-creative-collaboration.md",

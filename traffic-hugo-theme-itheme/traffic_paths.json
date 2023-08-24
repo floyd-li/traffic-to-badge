@@ -8,8 +8,14 @@
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
     "title": "hugo-theme-itheme/README_CN.md at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 6,
-    "uniques": 3
+    "count": 4,
+    "uniques": 2
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/images",
+    "title": "hugo-theme-itheme/images at master · floyd-li/hugo-theme-itheme · GitHub",
+    "count": 4,
+    "uniques": 1
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite",
@@ -30,6 +36,18 @@
     "uniques": 1
   },
   {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/images/screenshot.png",
+    "title": "hugo-theme-itheme/images/screenshot.png at master · floyd-li/hugo-theme-ithem...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/images/tn.png",
+    "title": "hugo-theme-itheme/images/tn.png at master · floyd-li/hugo-theme-itheme · GitHub",
+    "count": 2,
+    "uniques": 1
+  },
+  {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/layouts/_default/single.html",
     "title": "hugo-theme-itheme/layouts/_default/single.html at master · floyd-li/hugo-them...",
     "count": 2,
@@ -38,24 +56,6 @@
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/layouts/posts/list.html",
     "title": "hugo-theme-itheme/layouts/posts/list.html at master · floyd-li/hugo-theme-ith...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/issues",
-    "title": "Issues · floyd-li/hugo-theme-itheme",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/.github/workflows",
-    "title": "hugo-theme-itheme/.github/workflows at master · floyd-li/hugo-theme-itheme",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/i18n",
-    "title": "hugo-theme-itheme/i18n at master · floyd-li/hugo-theme-itheme",
     "count": 2,
     "uniques": 1
   }

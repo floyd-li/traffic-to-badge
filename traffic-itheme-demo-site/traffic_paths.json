@@ -18,12 +18,6 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/itheme-demo-site",
-    "title": "GitHub - floyd-li/itheme-demo-site: a demo site for hugo-theme-itheme",
-    "count": 7,
-    "uniques": 5
-  },
-  {
     "path": "/floyd-li/itheme-demo-site/blob/main/content/posts/apple-launches-freeform-a-powerful-new-app-designed-for-creative-collaboration.md",
     "title": "itheme-demo-site/content/posts/apple-launches-freeform-a-powerful-new-app-des...",
     "count": 6,
@@ -34,6 +28,12 @@
     "title": "itheme-demo-site/content/posts/the-first-year-out-moving-from-student-to-3d-a...",
     "count": 6,
     "uniques": 1
+  },
+  {
+    "path": "/floyd-li/itheme-demo-site",
+    "title": "GitHub - floyd-li/itheme-demo-site: a demo site for hugo-theme-itheme",
+    "count": 5,
+    "uniques": 3
   },
   {
     "path": "/floyd-li/itheme-demo-site/tree/main/content",

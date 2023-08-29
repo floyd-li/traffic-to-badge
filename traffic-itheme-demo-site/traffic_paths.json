@@ -18,16 +18,16 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/itheme-demo-site",
-    "title": "GitHub - floyd-li/itheme-demo-site: a demo site for hugo-theme-itheme",
-    "count": 9,
-    "uniques": 6
-  },
-  {
     "path": "/floyd-li/itheme-demo-site/tree/main/content/posts",
     "title": "itheme-demo-site/content/posts at main · floyd-li/itheme-demo-site · GitHub",
     "count": 9,
     "uniques": 3
+  },
+  {
+    "path": "/floyd-li/itheme-demo-site",
+    "title": "GitHub - floyd-li/itheme-demo-site: a demo site for hugo-theme-itheme",
+    "count": 8,
+    "uniques": 5
   },
   {
     "path": "/floyd-li/itheme-demo-site/tree/main/content",

@@ -2,8 +2,8 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 17,
-    "uniques": 11
+    "count": 16,
+    "uniques": 10
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/pull/13",
@@ -12,16 +12,16 @@
     "uniques": 2
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/fork",
-    "title": "Fork floyd-li/hugo-theme-itheme",
-    "count": 5,
-    "uniques": 2
-  },
-  {
     "path": "/floyd-li/hugo-theme-itheme/pulls",
     "title": "Pull requests · floyd-li/hugo-theme-itheme",
     "count": 3,
     "uniques": 2
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/fork",
+    "title": "Fork floyd-li/hugo-theme-itheme",
+    "count": 3,
+    "uniques": 1
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/issues",

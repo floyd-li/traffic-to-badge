@@ -1,33 +1,9 @@
 [
   {
     "path": "/floyd-li/itheme-demo-site",
-    "title": "GitHub - floyd-li/itheme-demo-site: a demo site for hugo-theme-itheme",
-    "count": 8,
-    "uniques": 4
-  },
-  {
-    "path": "/floyd-li/itheme-demo-site/blob/main/content/posts/mark-down-syntax.md",
-    "title": "itheme-demo-site/content/posts/mark-down-syntax.md at main · floyd-li/itheme-...",
-    "count": 8,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/itheme-demo-site/blob/main/content/posts/unreal-engine-5-1-delivers-new-features-for-filmmaking-broadcast-animation-and-live-events.md",
-    "title": "itheme-demo-site/content/posts/unreal-engine-5-1-delivers-new-features-for-fi...",
-    "count": 7,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/itheme-demo-site/tree/main/content/posts",
-    "title": "itheme-demo-site/content/posts at main · floyd-li/itheme-demo-site · GitHub",
-    "count": 6,
-    "uniques": 2
-  },
-  {
-    "path": "/floyd-li/itheme-demo-site/tree/main/content",
-    "title": "itheme-demo-site/content at main · floyd-li/itheme-demo-site · GitHub",
+    "title": "floyd-li/itheme-demo-site: a demo site for hugo-theme-itheme",
     "count": 4,
-    "uniques": 2
+    "uniques": 1
   },
   {
     "path": "/floyd-li/itheme-demo-site/tree/main/themes",
@@ -38,12 +14,6 @@
   {
     "path": "/floyd-li/itheme-demo-site/blob/main/config.toml",
     "title": "itheme-demo-site/config.toml at main · floyd-li/itheme-demo-site",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/itheme-demo-site/blob/main/content/posts/apple.md",
-    "title": "itheme-demo-site/content/posts/apple.md at main · floyd-li/itheme-demo-site ·...",
     "count": 2,
     "uniques": 1
   },

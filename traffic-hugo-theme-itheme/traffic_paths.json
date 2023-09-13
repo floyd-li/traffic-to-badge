@@ -2,8 +2,8 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 30,
-    "uniques": 15
+    "count": 28,
+    "uniques": 13
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/issues",
@@ -12,16 +12,16 @@
     "uniques": 3
   },
   {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
+    "title": "hugo-theme-itheme/README_CN.md at master · floyd-li/hugo-theme-itheme · GitHub",
+    "count": 8,
+    "uniques": 4
+  },
+  {
     "path": "/floyd-li/hugo-theme-itheme/pull/13",
     "title": "dark mode by mansoorbarri · Pull Request #13 · floyd-li/hugo-theme-itheme",
     "count": 8,
     "uniques": 2
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
-    "title": "hugo-theme-itheme/README_CN.md at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 6,
-    "uniques": 3
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite",
@@ -36,10 +36,10 @@
     "uniques": 3
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/fork",
-    "title": "Fork floyd-li/hugo-theme-itheme",
-    "count": 3,
-    "uniques": 1
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/layouts",
+    "title": "hugo-theme-itheme/layouts at master · floyd-li/hugo-theme-itheme",
+    "count": 4,
+    "uniques": 2
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/issues/1",

@@ -2,14 +2,8 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 22,
-    "uniques": 10
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/pull/13",
-    "title": "dark mode by mansoorbarri · Pull Request #13 · floyd-li/hugo-theme-itheme",
-    "count": 8,
-    "uniques": 2
+    "count": 19,
+    "uniques": 9
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/issues",
@@ -24,12 +18,6 @@
     "uniques": 3
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/pulls",
-    "title": "Pull requests · floyd-li/hugo-theme-itheme",
-    "count": 4,
-    "uniques": 2
-  },
-  {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite",
     "title": "hugo-theme-itheme/exampleSite at master · floyd-li/hugo-theme-itheme",
     "count": 4,
@@ -42,8 +30,8 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/pull/13/conflicts",
-    "title": "Resolve Conflicts · Pull Request #13 · floyd-li/hugo-theme-itheme",
+    "path": "/floyd-li/hugo-theme-itheme/pulls",
+    "title": "Pull requests · floyd-li/hugo-theme-itheme",
     "count": 2,
     "uniques": 1
   },
@@ -56,6 +44,18 @@
   {
     "path": "/floyd-li/hugo-theme-itheme/issues/1",
     "title": "Roadmap · Issue #1 · floyd-li/hugo-theme-itheme",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/issues/21",
+    "title": "Local .jpg cover photos not showing up in /posts 'View Archive' section · Iss...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/issues/22",
+    "title": "Youtube video styling as 'Wide' image · Issue #22 · floyd-li/hugo-theme-itheme",
     "count": 1,
     "uniques": 1
   }

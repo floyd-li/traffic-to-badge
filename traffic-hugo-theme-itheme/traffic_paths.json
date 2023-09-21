@@ -2,32 +2,38 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 23,
-    "uniques": 12
+    "count": 27,
+    "uniques": 14
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
     "title": "hugo-theme-itheme/README_CN.md at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 6,
-    "uniques": 3
+    "count": 20,
+    "uniques": 5
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/issues",
     "title": "Issues · floyd-li/hugo-theme-itheme",
-    "count": 5,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite",
-    "title": "hugo-theme-itheme/exampleSite at master · floyd-li/hugo-theme-itheme",
-    "count": 4,
-    "uniques": 2
+    "count": 8,
+    "uniques": 3
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/issues/1",
     "title": "Roadmap · Issue #1 · floyd-li/hugo-theme-itheme",
     "count": 3,
     "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/issues/21",
+    "title": "Local .jpg cover photos not showing up in /posts 'View Archive' section · Iss...",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/issues/22",
+    "title": "Youtube video styling as 'Wide' image · Issue #22 · floyd-li/hugo-theme-itheme",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/8289e58abc12f47e2f6218aa561552e2a855951d/layouts/partials/head.html",
@@ -42,21 +48,15 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/layouts",
-    "title": "hugo-theme-itheme/layouts at master · floyd-li/hugo-theme-itheme",
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite",
+    "title": "hugo-theme-itheme/exampleSite at master · floyd-li/hugo-theme-itheme",
     "count": 2,
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/forks",
-    "title": "Forks · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/issues/21",
-    "title": "Local .jpg cover photos not showing up in /posts 'View Archive' section · Iss...",
-    "count": 1,
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/layouts",
+    "title": "hugo-theme-itheme/layouts at master · floyd-li/hugo-theme-itheme",
+    "count": 2,
     "uniques": 1
   }
 ]

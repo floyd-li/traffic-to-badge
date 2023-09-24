@@ -1,8 +1,8 @@
 [
   {
     "referrer": "themes.gohugo.io",
-    "count": 33,
-    "uniques": 6
+    "count": 34,
+    "uniques": 7
   },
   {
     "referrer": "github.com",
@@ -20,17 +20,12 @@
     "uniques": 1
   },
   {
-    "referrer": "hugo-theme-itheme.netlify.app",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "referrer": "gitee.com",
     "count": 2,
     "uniques": 1
   },
   {
-    "referrer": "hugothemesfree.com",
+    "referrer": "hugo-theme-itheme.netlify.app",
     "count": 1,
     "uniques": 1
   },
@@ -40,12 +35,12 @@
     "uniques": 1
   },
   {
-    "referrer": "discourse.gohugo.io",
+    "referrer": "v2ex.com",
     "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "v2ex.com",
+    "referrer": "hugothemesfree.com",
     "count": 1,
     "uniques": 1
   }

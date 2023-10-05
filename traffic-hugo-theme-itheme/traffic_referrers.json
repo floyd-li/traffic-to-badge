@@ -6,12 +6,7 @@
   },
   {
     "referrer": "github.com",
-    "count": 19,
-    "uniques": 5
-  },
-  {
-    "referrer": "themes.gohugo.io",
-    "count": 12,
+    "count": 17,
     "uniques": 4
   },
   {
@@ -20,13 +15,13 @@
     "uniques": 3
   },
   {
-    "referrer": "v2ex.com",
-    "count": 3,
-    "uniques": 1
+    "referrer": "themes.gohugo.io",
+    "count": 4,
+    "uniques": 3
   },
   {
-    "referrer": "gitee.com",
-    "count": 2,
+    "referrer": "v2ex.com",
+    "count": 3,
     "uniques": 1
   },
   {

@@ -2,20 +2,26 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 27,
-    "uniques": 10
+    "count": 35,
+    "uniques": 12
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
     "title": "hugo-theme-itheme/README_CN.md at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 15,
-    "uniques": 3
+    "count": 23,
+    "uniques": 5
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/issues",
+    "title": "Issues · floyd-li/hugo-theme-itheme",
+    "count": 13,
+    "uniques": 5
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/static",
     "title": "hugo-theme-itheme/static at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 11,
-    "uniques": 2
+    "count": 13,
+    "uniques": 3
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/static/css",
@@ -36,27 +42,21 @@
     "uniques": 2
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/issues",
-    "title": "Issues · floyd-li/hugo-theme-itheme",
-    "count": 4,
-    "uniques": 3
+    "path": "/floyd-li/hugo-theme-itheme/tree/master",
+    "title": "floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
+    "count": 5,
+    "uniques": 2
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/i18n",
+    "title": "hugo-theme-itheme/i18n at master · floyd-li/hugo-theme-itheme · GitHub",
+    "count": 5,
+    "uniques": 2
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/config.toml",
     "title": "hugo-theme-itheme/config.toml at master · floyd-li/hugo-theme-itheme · GitHub",
     "count": 4,
     "uniques": 2
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/static/css/custom.css",
-    "title": "hugo-theme-itheme/static/css/custom.css at master · floyd-li/hugo-theme-itheme",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master",
-    "title": "floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 3,
-    "uniques": 1
   }
 ]

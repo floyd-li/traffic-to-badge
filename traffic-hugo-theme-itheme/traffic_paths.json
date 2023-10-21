@@ -3,7 +3,7 @@
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
     "count": 22,
-    "uniques": 10
+    "uniques": 13
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
@@ -18,26 +18,14 @@
     "uniques": 2
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/static",
-    "title": "hugo-theme-itheme/static at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 8,
-    "uniques": 3
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/i18n",
-    "title": "hugo-theme-itheme/i18n at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 5,
-    "uniques": 2
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/i18n/en.toml",
-    "title": "hugo-theme-itheme/i18n/en.toml at master · floyd-li/hugo-theme-itheme · GitHub",
+    "path": "/floyd-li/hugo-theme-itheme/issues/21",
+    "title": "Local .jpg cover photos not showing up in /posts 'View Archive' section · Iss...",
     "count": 4,
     "uniques": 2
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/issues/21",
-    "title": "Local .jpg cover photos not showing up in /posts 'View Archive' section · Iss...",
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/static",
+    "title": "hugo-theme-itheme/static at master · floyd-li/hugo-theme-itheme · GitHub",
     "count": 4,
     "uniques": 2
   },
@@ -57,6 +45,18 @@
     "path": "/floyd-li/hugo-theme-itheme/pull/11",
     "title": "Rel image path by wingkinl · Pull Request #11 · floyd-li/hugo-theme-itheme",
     "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/i18n/en.toml",
+    "title": "hugo-theme-itheme/i18n/en.toml at master · floyd-li/hugo-theme-itheme",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/issues/1",
+    "title": "Roadmap · Issue #1 · floyd-li/hugo-theme-itheme",
+    "count": 2,
     "uniques": 1
   }
 ]

@@ -2,61 +2,25 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 22,
-    "uniques": 13
+    "count": 14,
+    "uniques": 12
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
     "title": "hugo-theme-itheme/README_CN.md at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 17,
-    "uniques": 6
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/issues",
-    "title": "Issues · floyd-li/hugo-theme-itheme",
-    "count": 9,
-    "uniques": 2
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/issues/21",
-    "title": "Local .jpg cover photos not showing up in /posts 'View Archive' section · Iss...",
-    "count": 4,
-    "uniques": 2
+    "count": 13,
+    "uniques": 5
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/static",
     "title": "hugo-theme-itheme/static at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 4,
-    "uniques": 2
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/i18n/zh-hans.toml",
-    "title": "hugo-theme-itheme/i18n/zh-hans.toml at master · floyd-li/hugo-theme-itheme",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/issues/25",
-    "title": "The first tag and dark style? · Issue #25 · floyd-li/hugo-theme-itheme",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/pull/11",
-    "title": "Rel image path by wingkinl · Pull Request #11 · floyd-li/hugo-theme-itheme",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/i18n/en.toml",
-    "title": "hugo-theme-itheme/i18n/en.toml at master · floyd-li/hugo-theme-itheme",
     "count": 2,
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/issues/1",
-    "title": "Roadmap · Issue #1 · floyd-li/hugo-theme-itheme",
-    "count": 2,
+    "path": "/floyd-li/hugo-theme-itheme/commit/8289e58abc12f47e2f6218aa561552e2a855951d",
+    "title": "Merge pull request #18 from dombyte/master · floyd-li/hugo-theme-itheme@8289e58",
+    "count": 1,
     "uniques": 1
   }
 ]

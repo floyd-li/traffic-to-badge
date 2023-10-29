@@ -2,7 +2,7 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 19,
+    "count": 20,
     "uniques": 14
   },
   {
@@ -18,6 +18,12 @@
     "uniques": 4
   },
   {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/config.toml",
+    "title": "hugo-theme-itheme/config.toml at master · floyd-li/hugo-theme-itheme · GitHub",
+    "count": 6,
+    "uniques": 3
+  },
+  {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/theme.toml",
     "title": "hugo-theme-itheme/theme.toml at master · floyd-li/hugo-theme-itheme",
     "count": 6,
@@ -27,18 +33,6 @@
     "path": "/floyd-li/hugo-theme-itheme/blob/master/README.md",
     "title": "hugo-theme-itheme/README.md at master · floyd-li/hugo-theme-itheme",
     "count": 6,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/config.toml",
-    "title": "hugo-theme-itheme/config.toml at master · floyd-li/hugo-theme-itheme",
-    "count": 4,
-    "uniques": 2
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/static",
-    "title": "hugo-theme-itheme/static at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 2,
     "uniques": 1
   },
   {
@@ -56,6 +50,12 @@
   {
     "path": "/floyd-li/hugo-theme-itheme/pull/26/files",
     "title": "Create es.toml by bonber · Pull Request #26 · floyd-li/hugo-theme-itheme",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master",
+    "title": "floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
     "count": 1,
     "uniques": 1
   }

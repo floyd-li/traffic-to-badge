@@ -1,7 +1,7 @@
 [
   {
     "referrer": "themes.gohugo.io",
-    "count": 54,
+    "count": 55,
     "uniques": 3
   },
   {
@@ -22,11 +22,6 @@
   {
     "referrer": "Google",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "referrer": "discourse.gohugo.io",
-    "count": 1,
     "uniques": 1
   }
 ]

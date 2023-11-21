@@ -2,12 +2,30 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 26,
+    "count": 24,
     "uniques": 16
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
-    "title": "hugo-theme-itheme/README_CN.md at master · floyd-li/hugo-theme-itheme",
+    "title": "hugo-theme-itheme/README_CN.md at master · floyd-li/hugo-theme-itheme · GitHub",
+    "count": 6,
+    "uniques": 2
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/archetypes",
+    "title": "hugo-theme-itheme/archetypes at master · floyd-li/hugo-theme-itheme · GitHub",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/archetypes/posts.md",
+    "title": "hugo-theme-itheme/archetypes/posts.md at master · floyd-li/hugo-theme-itheme ...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/images/screenshot.png",
+    "title": "hugo-theme-itheme/images/screenshot.png at master · floyd-li/hugo-theme-ithem...",
     "count": 2,
     "uniques": 1
   },
@@ -18,45 +36,27 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/issues/21",
-    "title": "Local .jpg cover photos not showing up in /posts 'View Archive' section · Iss...",
-    "count": 1,
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/assets",
+    "title": "hugo-theme-itheme/assets at master · floyd-li/hugo-theme-itheme · GitHub",
+    "count": 2,
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/issues/5",
-    "title": "date & cover image doesn't show up · Issue #5 · floyd-li/hugo-theme-itheme",
-    "count": 1,
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite",
+    "title": "hugo-theme-itheme/exampleSite at master · floyd-li/hugo-theme-itheme · GitHub",
+    "count": 2,
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/issues/6",
-    "title": "Pictures don't seem to be working · Issue #6 · floyd-li/hugo-theme-itheme",
-    "count": 1,
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/.github",
+    "title": "hugo-theme-itheme/.github at master · floyd-li/hugo-theme-itheme · GitHub",
+    "count": 2,
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/pull/11",
-    "title": "Rel image path by wingkinl · Pull Request #11 · floyd-li/hugo-theme-itheme",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/pulls",
-    "title": "Pull requests · floyd-li/hugo-theme-itheme",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master",
-    "title": "floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/watchers",
-    "title": "Watchers · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 1,
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/.github/workflows",
+    "title": "hugo-theme-itheme/.github/workflows at master · floyd-li/hugo-theme-itheme · ...",
+    "count": 2,
     "uniques": 1
   }
 ]

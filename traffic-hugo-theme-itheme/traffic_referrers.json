@@ -6,22 +6,17 @@
   },
   {
     "referrer": "themes.gohugo.io",
-    "count": 5,
-    "uniques": 2
+    "count": 7,
+    "uniques": 3
   },
   {
     "referrer": "github.com",
-    "count": 4,
-    "uniques": 3
+    "count": 5,
+    "uniques": 4
   },
   {
     "referrer": "hugothemesfree.com",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "referrer": "hugo-theme-itheme.netlify.app",
-    "count": 1,
-    "uniques": 1
   }
 ]

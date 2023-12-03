@@ -3,13 +3,7 @@
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
     "count": 28,
-    "uniques": 16
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite",
-    "title": "hugo-theme-itheme/exampleSite at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 17,
-    "uniques": 3
+    "uniques": 17
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/i18n/en.toml",
@@ -18,10 +12,10 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
-    "title": "hugo-theme-itheme/README_CN.md at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 14,
-    "uniques": 4
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite",
+    "title": "hugo-theme-itheme/exampleSite at master · floyd-li/hugo-theme-itheme · GitHub",
+    "count": 15,
+    "uniques": 2
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/content/posts/apple-reports-first-quarter-results.md",
@@ -36,15 +30,15 @@
     "uniques": 2
   },
   {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
+    "title": "hugo-theme-itheme/README_CN.md at master · floyd-li/hugo-theme-itheme · GitHub",
+    "count": 10,
+    "uniques": 3
+  },
+  {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite/content/posts",
     "title": "hugo-theme-itheme/exampleSite/content/posts at master · floyd-li/hugo-theme-i...",
     "count": 9,
-    "uniques": 2
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/i18n",
-    "title": "hugo-theme-itheme/i18n at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 5,
     "uniques": 2
   },
   {
@@ -54,9 +48,15 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/archetypes",
-    "title": "hugo-theme-itheme/archetypes at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 4,
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/i18n",
+    "title": "hugo-theme-itheme/i18n at master · floyd-li/hugo-theme-itheme",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/static",
+    "title": "hugo-theme-itheme/static at master · floyd-li/hugo-theme-itheme · GitHub",
+    "count": 3,
     "uniques": 1
   }
 ]

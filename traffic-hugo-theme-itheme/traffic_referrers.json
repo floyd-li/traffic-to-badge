@@ -5,14 +5,14 @@
     "uniques": 5
   },
   {
-    "referrer": "exittaiwan.com",
-    "count": 27,
-    "uniques": 3
-  },
-  {
     "referrer": "themes.gohugo.io",
     "count": 24,
     "uniques": 5
+  },
+  {
+    "referrer": "exittaiwan.com",
+    "count": 15,
+    "uniques": 2
   },
   {
     "referrer": "github.com",

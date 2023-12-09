@@ -1,7 +1,7 @@
 [
   {
     "referrer": "themes.gohugo.io",
-    "count": 39,
+    "count": 32,
     "uniques": 6
   },
   {
@@ -10,9 +10,9 @@
     "uniques": 4
   },
   {
-    "referrer": "exittaiwan.com",
-    "count": 4,
-    "uniques": 2
+    "referrer": "jp.v2ex.com",
+    "count": 3,
+    "uniques": 3
   },
   {
     "referrer": "github.com",
@@ -20,7 +20,7 @@
     "uniques": 1
   },
   {
-    "referrer": "jp.v2ex.com",
+    "referrer": "exittaiwan.com",
     "count": 1,
     "uniques": 1
   },

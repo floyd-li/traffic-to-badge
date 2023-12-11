@@ -2,8 +2,8 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 22,
-    "uniques": 17
+    "count": 18,
+    "uniques": 15
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/layouts",
@@ -12,28 +12,10 @@
     "uniques": 2
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite",
-    "title": "hugo-theme-itheme/exampleSite at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 8,
-    "uniques": 1
-  },
-  {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
     "title": "hugo-theme-itheme/README_CN.md at master · floyd-li/hugo-theme-itheme · GitHub",
     "count": 6,
     "uniques": 3
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/content/posts/apple-reports-first-quarter-results.md",
-    "title": "hugo-theme-itheme/exampleSite/content/posts/apple-reports-first-quarter-resul...",
-    "count": 5,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite/content",
-    "title": "hugo-theme-itheme/exampleSite/content at master · floyd-li/hugo-theme-itheme ...",
-    "count": 4,
-    "uniques": 1
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/archetypes",
@@ -54,8 +36,26 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/config.toml",
-    "title": "hugo-theme-itheme/exampleSite/config.toml at master · floyd-li/hugo-theme-ith...",
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/layouts/index.html",
+    "title": "hugo-theme-itheme/layouts/index.html at master · floyd-li/hugo-theme-itheme",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/layouts/partials/function/resource.html",
+    "title": "hugo-theme-itheme/layouts/partials/function/resource.html at master · floyd-l...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/layouts/partials/pagination.html",
+    "title": "hugo-theme-itheme/layouts/partials/pagination.html at master · floyd-li/hugo-...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/layouts/posts/list.html",
+    "title": "hugo-theme-itheme/layouts/posts/list.html at master · floyd-li/hugo-theme-ith...",
     "count": 2,
     "uniques": 1
   }

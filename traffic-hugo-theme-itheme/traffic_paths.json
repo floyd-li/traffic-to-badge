@@ -2,14 +2,20 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 15,
-    "uniques": 12
+    "count": 17,
+    "uniques": 13
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/layouts",
     "title": "hugo-theme-itheme/layouts at master · floyd-li/hugo-theme-itheme · GitHub",
     "count": 6,
     "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/static",
+    "title": "hugo-theme-itheme/static at master · floyd-li/hugo-theme-itheme · GitHub",
+    "count": 5,
+    "uniques": 2
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
@@ -20,12 +26,6 @@
   {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/archetypes",
     "title": "hugo-theme-itheme/archetypes at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/static",
-    "title": "hugo-theme-itheme/static at master · floyd-li/hugo-theme-itheme · GitHub",
     "count": 3,
     "uniques": 1
   },
@@ -45,6 +45,18 @@
     "path": "/floyd-li/hugo-theme-itheme/tree/master/layouts/taxonomy",
     "title": "hugo-theme-itheme/layouts/taxonomy at master · floyd-li/hugo-theme-itheme · G...",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/actions",
+    "title": "Workflow runs · floyd-li/hugo-theme-itheme",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/pulls",
+    "title": "Pull requests · floyd-li/hugo-theme-itheme",
+    "count": 1,
     "uniques": 1
   }
 ]

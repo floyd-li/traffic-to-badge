@@ -6,27 +6,57 @@
     "uniques": 13
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/theme.toml",
-    "title": "hugo-theme-itheme/theme.toml at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/static",
     "title": "hugo-theme-itheme/static at master · floyd-li/hugo-theme-itheme",
+    "count": 6,
+    "uniques": 2
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
+    "title": "hugo-theme-itheme/README_CN.md at master · floyd-li/hugo-theme-itheme",
+    "count": 6,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite",
+    "title": "hugo-theme-itheme/exampleSite at master · floyd-li/hugo-theme-itheme",
+    "count": 6,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/layouts",
+    "title": "hugo-theme-itheme/layouts at master · floyd-li/hugo-theme-itheme",
+    "count": 6,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/theme.toml",
+    "title": "hugo-theme-itheme/theme.toml at master · floyd-li/hugo-theme-itheme · GitHub",
+    "count": 4,
+    "uniques": 2
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/archetypes",
+    "title": "hugo-theme-itheme/archetypes at master · floyd-li/hugo-theme-itheme",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/i18n",
+    "title": "hugo-theme-itheme/i18n at master · floyd-li/hugo-theme-itheme",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/images",
+    "title": "hugo-theme-itheme/images at master · floyd-li/hugo-theme-itheme",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/config.toml",
+    "title": "hugo-theme-itheme/config.toml at master · floyd-li/hugo-theme-itheme",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/actions",
-    "title": "Workflow runs · floyd-li/hugo-theme-itheme",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/pulls",
-    "title": "Pull requests · floyd-li/hugo-theme-itheme",
-    "count": 1,
     "uniques": 1
   }
 ]

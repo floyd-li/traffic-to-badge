@@ -1,8 +1,8 @@
 [
   {
     "referrer": "themes.gohugo.io",
-    "count": 7,
-    "uniques": 3
+    "count": 68,
+    "uniques": 4
   },
   {
     "referrer": "v2ex.com",
@@ -21,11 +21,6 @@
   },
   {
     "referrer": "DuckDuckGo",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "exittaiwan.com",
     "count": 1,
     "uniques": 1
   }

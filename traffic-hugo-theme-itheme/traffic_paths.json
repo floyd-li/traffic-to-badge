@@ -2,14 +2,14 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 25,
-    "uniques": 14
+    "count": 31,
+    "uniques": 17
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/issues",
     "title": "Issues · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 4,
-    "uniques": 3
+    "count": 6,
+    "uniques": 5
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
@@ -24,10 +24,16 @@
     "uniques": 3
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/blob/8289e58abc12f47e2f6218aa561552e2a855951d/layouts/index.html",
-    "title": "hugo-theme-itheme/layouts/index.html at 8289e58abc12f47e2f6218aa561552e2a8559...",
+    "path": "/floyd-li/hugo-theme-itheme/issues/1",
+    "title": "Roadmap · Issue #1 · floyd-li/hugo-theme-itheme · GitHub",
     "count": 2,
-    "uniques": 1
+    "uniques": 2
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/issues/25",
+    "title": "Only the first tag appear in homepage · Issue #25 · floyd-li/hugo-theme-itheme",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/images",
@@ -36,14 +42,8 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/issues/1",
-    "title": "Roadmap · Issue #1 · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/issues/25",
-    "title": "Only the first tag appear in homepage · Issue #25 · floyd-li/hugo-theme-ithem...",
+    "path": "/floyd-li/hugo-theme-itheme/issues/20",
+    "title": "How to have entire site in dark mode? · Issue #20 · floyd-li/hugo-theme-itheme",
     "count": 1,
     "uniques": 1
   },
@@ -54,8 +54,8 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/pull/26",
-    "title": "Create es.toml by bonber · Pull Request #26 · floyd-li/hugo-theme-itheme · Gi...",
+    "path": "/floyd-li/hugo-theme-itheme/pull/13",
+    "title": "dark mode by mansoorbarri · Pull Request #13 · floyd-li/hugo-theme-itheme",
     "count": 1,
     "uniques": 1
   }

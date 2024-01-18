@@ -2,14 +2,8 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 26,
-    "uniques": 17
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/issues",
-    "title": "Issues · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 4,
-    "uniques": 4
+    "count": 22,
+    "uniques": 15
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
@@ -18,14 +12,14 @@
     "uniques": 2
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/issues/25",
-    "title": "Only the first tag appear in homepage · Issue #25 · floyd-li/hugo-theme-itheme",
-    "count": 2,
-    "uniques": 2
+    "path": "/floyd-li/hugo-theme-itheme/issues",
+    "title": "Issues · floyd-li/hugo-theme-itheme · GitHub",
+    "count": 3,
+    "uniques": 3
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/pulls",
-    "title": "Pull requests · floyd-li/hugo-theme-itheme · GitHub",
+    "path": "/floyd-li/hugo-theme-itheme/issues/25",
+    "title": "Only the first tag appear in homepage · Issue #25 · floyd-li/hugo-theme-itheme",
     "count": 2,
     "uniques": 2
   },
@@ -57,6 +51,12 @@
     "path": "/floyd-li/hugo-theme-itheme/tree/master/layouts",
     "title": "hugo-theme-itheme/layouts at master · floyd-li/hugo-theme-itheme · GitHub",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/issues/1",
+    "title": "Roadmap · Issue #1 · floyd-li/hugo-theme-itheme",
+    "count": 1,
     "uniques": 1
   }
 ]

@@ -2,8 +2,8 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 23,
-    "uniques": 17
+    "count": 19,
+    "uniques": 13
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
@@ -13,13 +13,7 @@
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/issues",
-    "title": "Issues · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 3,
-    "uniques": 3
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/issues/25",
-    "title": "Only the first tag appear in homepage · Issue #25 · floyd-li/hugo-theme-itheme",
+    "title": "Issues · floyd-li/hugo-theme-itheme",
     "count": 2,
     "uniques": 2
   },
@@ -56,6 +50,12 @@
   {
     "path": "/floyd-li/hugo-theme-itheme/issues/1",
     "title": "Roadmap · Issue #1 · floyd-li/hugo-theme-itheme",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/issues/20",
+    "title": "How to have entire site in dark mode? · Issue #20 · floyd-li/hugo-theme-itheme",
     "count": 1,
     "uniques": 1
   }

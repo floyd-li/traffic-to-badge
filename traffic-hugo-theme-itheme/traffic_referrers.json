@@ -1,17 +1,17 @@
 [
   {
-    "referrer": "hugothemesfree.com",
-    "count": 9,
-    "uniques": 1
-  },
-  {
-    "referrer": "themes.gohugo.io",
-    "count": 4,
-    "uniques": 3
-  },
-  {
     "referrer": "hugo-theme-itheme.netlify.app",
     "count": 4,
     "uniques": 2
+  },
+  {
+    "referrer": "themes.gohugo.io",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "referrer": "Google",
+    "count": 3,
+    "uniques": 1
   }
 ]

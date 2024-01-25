@@ -2,7 +2,19 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 12,
-    "uniques": 8
+    "count": 19,
+    "uniques": 11
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/issues",
+    "title": "Issues · floyd-li/hugo-theme-itheme · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/issues/10",
+    "title": "Suggestions: More flexibility for headers, footers and cover images · Issue #...",
+    "count": 1,
+    "uniques": 1
   }
 ]

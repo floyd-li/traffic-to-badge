@@ -2,8 +2,38 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 20,
-    "uniques": 12
+    "count": 23,
+    "uniques": 14
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/i18n/en.toml",
+    "title": "hugo-theme-itheme/i18n/en.toml at master · floyd-li/hugo-theme-itheme",
+    "count": 8,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
+    "title": "hugo-theme-itheme/README_CN.md at master · floyd-li/hugo-theme-itheme",
+    "count": 8,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/i18n/de.toml",
+    "title": "hugo-theme-itheme/i18n/de.toml at master · floyd-li/hugo-theme-itheme",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/i18n/es.toml",
+    "title": "hugo-theme-itheme/i18n/es.toml at master · floyd-li/hugo-theme-itheme",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/i18n",
+    "title": "hugo-theme-itheme/i18n at master · floyd-li/hugo-theme-itheme",
+    "count": 4,
+    "uniques": 1
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/issues",
@@ -18,33 +48,15 @@
     "uniques": 2
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/issues/24",
-    "title": "\"Preview not shown\", \"\"No introduction on the homepage\" · Issue #24 · floyd-l...",
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/archetypes/posts.md",
+    "title": "hugo-theme-itheme/archetypes/posts.md at master · floyd-li/hugo-theme-itheme",
     "count": 2,
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/issues/25",
-    "title": "Only the first tag appear in homepage · Issue #25 · floyd-li/hugo-theme-ithem...",
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/i18n/zh-hans.toml",
+    "title": "hugo-theme-itheme/i18n/zh-hans.toml at master · floyd-li/hugo-theme-itheme",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/issues/1",
-    "title": "Roadmap · Issue #1 · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/issues/21",
-    "title": "Local .jpg cover photos not showing up in /posts 'View Archive' section · Iss...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/issues/22",
-    "title": "Youtube video styling as 'Wide' image · Issue #22 · floyd-li/hugo-theme-ithem...",
-    "count": 1,
     "uniques": 1
   }
 ]

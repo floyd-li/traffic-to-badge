@@ -2,8 +2,14 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 23,
+    "count": 27,
     "uniques": 14
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
+    "title": "hugo-theme-itheme/README_CN.md at master · floyd-li/hugo-theme-itheme",
+    "count": 22,
+    "uniques": 1
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/i18n/en.toml",
@@ -12,10 +18,10 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
-    "title": "hugo-theme-itheme/README_CN.md at master · floyd-li/hugo-theme-itheme",
-    "count": 8,
-    "uniques": 1
+    "path": "/floyd-li/hugo-theme-itheme/issues",
+    "title": "Issues · floyd-li/hugo-theme-itheme · GitHub",
+    "count": 5,
+    "uniques": 3
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/i18n/de.toml",
@@ -36,27 +42,21 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/issues",
-    "title": "Issues · floyd-li/hugo-theme-itheme · GitHub",
+    "path": "/floyd-li/hugo-theme-itheme/issues/10",
+    "title": "Suggestions: More flexibility for headers, footers and cover images · Issue #...",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/issues/24",
+    "title": "\"Preview not shown\", \"\"No introduction on the homepage\" · Issue #24 · floyd-l...",
     "count": 3,
     "uniques": 2
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/issues/10",
-    "title": "Suggestions: More flexibility for headers, footers and cover images · Issue #...",
-    "count": 2,
+    "path": "/floyd-li/hugo-theme-itheme/issues/25",
+    "title": "Only the first tag appear in homepage · Issue #25 · floyd-li/hugo-theme-itheme",
+    "count": 3,
     "uniques": 2
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/archetypes/posts.md",
-    "title": "hugo-theme-itheme/archetypes/posts.md at master · floyd-li/hugo-theme-itheme",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/i18n/zh-hans.toml",
-    "title": "hugo-theme-itheme/i18n/zh-hans.toml at master · floyd-li/hugo-theme-itheme",
-    "count": 2,
-    "uniques": 1
   }
 ]

@@ -8,8 +8,8 @@
   {
     "path": "/floyd-li/itheme-demo-site",
     "title": "floyd-li/itheme-demo-site: a demo site for hugo-theme-itheme",
-    "count": 3,
-    "uniques": 1
+    "count": 4,
+    "uniques": 2
   },
   {
     "path": "/floyd-li/itheme-demo-site/tree/main/themes/netlify-basic",
@@ -24,8 +24,26 @@
     "uniques": 1
   },
   {
+    "path": "/floyd-li/itheme-demo-site/blob/main/content/posts/hello-world-cn.md",
+    "title": "itheme-demo-site/content/posts/hello-world-cn.md at main · floyd-li/itheme-de...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
     "path": "/floyd-li/itheme-demo-site/blob/main/themes/netlify-basic/theme.toml",
     "title": "itheme-demo-site/themes/netlify-basic/theme.toml at main · floyd-li/itheme-de...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/itheme-demo-site/tree/main/content",
+    "title": "itheme-demo-site/content at main · floyd-li/itheme-demo-site",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/itheme-demo-site/tree/main/content/posts",
+    "title": "itheme-demo-site/content/posts at main · floyd-li/itheme-demo-site",
     "count": 2,
     "uniques": 1
   }

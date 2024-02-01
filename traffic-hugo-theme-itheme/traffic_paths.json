@@ -18,6 +18,12 @@
     "uniques": 3
   },
   {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/layouts/partials/archiveItem.html",
+    "title": "hugo-theme-itheme/layouts/partials/archiveItem.html at master · floyd-li/hugo...",
+    "count": 8,
+    "uniques": 2
+  },
+  {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/i18n/en.toml",
     "title": "hugo-theme-itheme/i18n/en.toml at master · floyd-li/hugo-theme-itheme",
     "count": 8,
@@ -50,12 +56,6 @@
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/i18n/de.toml",
     "title": "hugo-theme-itheme/i18n/de.toml at master · floyd-li/hugo-theme-itheme",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/i18n/es.toml",
-    "title": "hugo-theme-itheme/i18n/es.toml at master · floyd-li/hugo-theme-itheme",
     "count": 4,
     "uniques": 1
   }

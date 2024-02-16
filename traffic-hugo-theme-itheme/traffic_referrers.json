@@ -1,7 +1,7 @@
 [
   {
     "referrer": "themes.gohugo.io",
-    "count": 140,
+    "count": 141,
     "uniques": 8
   },
   {
@@ -15,7 +15,12 @@
     "uniques": 1
   },
   {
-    "referrer": "discourse.gohugo.io",
+    "referrer": "mxr-lee.top",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "referrer": "v2ex.com",
     "count": 1,
     "uniques": 1
   }

@@ -2,14 +2,14 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 26,
-    "uniques": 14
+    "count": 24,
+    "uniques": 12
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/layouts",
     "title": "hugo-theme-itheme/layouts at master · floyd-li/hugo-theme-itheme",
-    "count": 15,
-    "uniques": 2
+    "count": 19,
+    "uniques": 3
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
@@ -20,6 +20,12 @@
   {
     "path": "/floyd-li/hugo-theme-itheme/tree/master",
     "title": "hugo-theme-itheme/ at master · floyd-li/hugo-theme-itheme",
+    "count": 11,
+    "uniques": 4
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/static/css/global.css",
+    "title": "hugo-theme-itheme/static/css/global.css at master · floyd-li/hugo-theme-itheme",
     "count": 10,
     "uniques": 3
   },
@@ -36,27 +42,21 @@
     "uniques": 2
   },
   {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/layouts/_default/baseof.html",
+    "title": "hugo-theme-itheme/layouts/_default/baseof.html at master · floyd-li/hugo-them...",
+    "count": 6,
+    "uniques": 3
+  },
+  {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/layouts/_default/single.html",
     "title": "hugo-theme-itheme/layouts/_default/single.html at master · floyd-li/hugo-them...",
     "count": 6,
     "uniques": 3
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/content/about.md",
-    "title": "hugo-theme-itheme/exampleSite/content/about.md at master · floyd-li/hugo-them...",
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/layouts/_default",
+    "title": "hugo-theme-itheme/layouts/_default at master · floyd-li/hugo-theme-itheme",
     "count": 6,
-    "uniques": 2
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/static",
-    "title": "hugo-theme-itheme/static at master · floyd-li/hugo-theme-itheme",
-    "count": 6,
-    "uniques": 2
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/c22b5df3f2d7a3aaed5a961405ef23507d813d9a/.github/workflows/update_demo_site.yml",
-    "title": "hugo-theme-itheme/.github/workflows/update_demo_site.yml at c22b5df3f2d7a3aae...",
-    "count": 6,
-    "uniques": 1
+    "uniques": 3
   }
 ]

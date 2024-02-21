@@ -12,12 +12,6 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/itheme-demo-site",
-    "title": "GitHub - floyd-li/itheme-demo-site: a demo site for hugo-theme-itheme",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/floyd-li/itheme-demo-site/blob/main/content/posts/apple-introduces-the-new-homepod-with-breakthrough-sound-and-intelligence.md",
     "title": "itheme-demo-site/content/posts/apple-introduces-the-new-homepod-with-breakthr...",
     "count": 2,
@@ -30,14 +24,8 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/itheme-demo-site/tree/main/themes",
-    "title": "itheme-demo-site/themes at main · floyd-li/itheme-demo-site · GitHub",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/itheme-demo-site/commit/ceccaba5e062b2cb564407e1d62a83f970aa2e82",
-    "title": "Update theme automatically · floyd-li/itheme-demo-site@ceccaba · GitHub",
+    "path": "/floyd-li/itheme-demo-site",
+    "title": "GitHub - floyd-li/itheme-demo-site: a demo site for hugo-theme-itheme",
     "count": 1,
     "uniques": 1
   }

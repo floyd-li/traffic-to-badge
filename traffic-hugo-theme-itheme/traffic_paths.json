@@ -2,7 +2,7 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 27,
+    "count": 25,
     "uniques": 20
   },
   {
@@ -10,18 +10,6 @@
     "title": "hugo-theme-itheme/README_CN.md at master · floyd-li/hugo-theme-itheme · GitHub",
     "count": 13,
     "uniques": 5
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite",
-    "title": "hugo-theme-itheme/exampleSite at master · floyd-li/hugo-theme-itheme",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/static",
-    "title": "hugo-theme-itheme/static at master · floyd-li/hugo-theme-itheme",
-    "count": 3,
-    "uniques": 1
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/assets/js/algolia.js",
@@ -57,6 +45,18 @@
     "path": "/floyd-li/hugo-theme-itheme/blob/master/static/js/animation.js",
     "title": "hugo-theme-itheme/static/js/animation.js at master · floyd-li/hugo-theme-itheme",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/static/js/autocomplete-js.js",
+    "title": "hugo-theme-itheme/static/js/autocomplete-js.js at master · floyd-li/hugo-them...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/graphs/contributors",
+    "title": "Contributors to floyd-li/hugo-theme-itheme",
+    "count": 1,
     "uniques": 1
   }
 ]

@@ -2,8 +2,8 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 17,
-    "uniques": 13
+    "count": 19,
+    "uniques": 14
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
@@ -12,51 +12,33 @@
     "uniques": 3
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/assets/js/algolia.js",
-    "title": "hugo-theme-itheme/assets/js/algolia.js at master · floyd-li/hugo-theme-itheme",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/assets/js/initPost.js",
-    "title": "hugo-theme-itheme/assets/js/initPost.js at master · floyd-li/hugo-theme-itheme",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/layouts/_default/baseof.html",
-    "title": "hugo-theme-itheme/layouts/_default/baseof.html at master · floyd-li/hugo-them...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/layouts/partials/function/resource.html",
-    "title": "hugo-theme-itheme/layouts/partials/function/resource.html at master · floyd-l...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/static/js/algoliasearch.umd.js",
-    "title": "hugo-theme-itheme/static/js/algoliasearch.umd.js at master · floyd-li/hugo-th...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/static/js/animation.js",
-    "title": "hugo-theme-itheme/static/js/animation.js at master · floyd-li/hugo-theme-itheme",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/static/js/autocomplete-js.js",
-    "title": "hugo-theme-itheme/static/js/autocomplete-js.js at master · floyd-li/hugo-them...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite",
     "title": "hugo-theme-itheme/exampleSite at master · floyd-li/hugo-theme-itheme",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite/content",
+    "title": "hugo-theme-itheme/exampleSite/content at master · floyd-li/hugo-theme-itheme",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/layouts/index.html",
+    "title": "hugo-theme-itheme/layouts/index.html at master · floyd-li/hugo-theme-itheme",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/graphs/contributors",
+    "title": "Contributors to floyd-li/hugo-theme-itheme",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master",
+    "title": "floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
+    "count": 1,
     "uniques": 1
   }
 ]

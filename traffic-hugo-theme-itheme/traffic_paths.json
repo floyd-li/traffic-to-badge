@@ -2,8 +2,14 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 23,
-    "uniques": 15
+    "count": 27,
+    "uniques": 17
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
+    "title": "hugo-theme-itheme/README_CN.md at master · floyd-li/hugo-theme-itheme",
+    "count": 10,
+    "uniques": 3
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/static",
@@ -16,12 +22,6 @@
     "title": "hugo-theme-itheme/exampleSite at master · floyd-li/hugo-theme-itheme",
     "count": 4,
     "uniques": 2
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
-    "title": "hugo-theme-itheme/README_CN.md at master · floyd-li/hugo-theme-itheme",
-    "count": 2,
-    "uniques": 1
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/commits/master",

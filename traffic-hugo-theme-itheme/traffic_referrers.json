@@ -10,17 +10,17 @@
     "uniques": 2
   },
   {
-    "referrer": "hugo-theme-itheme.netlify.app",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "referrer": "Google",
     "count": 2,
     "uniques": 1
   },
   {
     "referrer": "jp.v2ex.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "origin.v2ex.com",
     "count": 1,
     "uniques": 1
   },

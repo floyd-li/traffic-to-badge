@@ -2,8 +2,8 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 13,
-    "uniques": 10
+    "count": 9,
+    "uniques": 7
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
@@ -18,21 +18,9 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/.github/workflows",
-    "title": "hugo-theme-itheme/.github/workflows at master · floyd-li/hugo-theme-itheme",
-    "count": 3,
-    "uniques": 1
-  },
-  {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/layouts",
     "title": "hugo-theme-itheme/layouts at master · floyd-li/hugo-theme-itheme",
     "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/.github/workflows/update_demo_site.yml",
-    "title": "hugo-theme-itheme/.github/workflows/update_demo_site.yml at master · floyd-li...",
-    "count": 2,
     "uniques": 1
   },
   {
@@ -50,12 +38,6 @@
   {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/layouts/partials",
     "title": "hugo-theme-itheme/layouts/partials at master · floyd-li/hugo-theme-itheme",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/static",
-    "title": "hugo-theme-itheme/static at master · floyd-li/hugo-theme-itheme",
     "count": 2,
     "uniques": 1
   }

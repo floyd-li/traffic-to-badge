@@ -2,14 +2,8 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 14,
+    "count": 10,
     "uniques": 9
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/issues",
-    "title": "Issues · floyd-li/hugo-theme-itheme",
-    "count": 9,
-    "uniques": 2
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
@@ -18,44 +12,32 @@
     "uniques": 3
   },
   {
+    "path": "/floyd-li/hugo-theme-itheme/issues",
+    "title": "Issues · floyd-li/hugo-theme-itheme",
+    "count": 6,
+    "uniques": 1
+  },
+  {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/README.md",
     "title": "hugo-theme-itheme/README.md at master · floyd-li/hugo-theme-itheme",
     "count": 2,
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/static/css/autocomplete-theme-classic.css",
-    "title": "hugo-theme-itheme/static/css/autocomplete-theme-classic.css at master · floyd...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/static/css/custom.css",
-    "title": "hugo-theme-itheme/static/css/custom.css at master · floyd-li/hugo-theme-itheme",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/static/css/global.css",
-    "title": "hugo-theme-itheme/static/css/global.css at master · floyd-li/hugo-theme-itheme",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/static",
-    "title": "hugo-theme-itheme/static at master · floyd-li/hugo-theme-itheme",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/static/css",
-    "title": "hugo-theme-itheme/static/css at master · floyd-li/hugo-theme-itheme",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/floyd-li/hugo-theme-itheme/issues/20",
     "title": "How to have entire site in dark mode? · Issue #20 · floyd-li/hugo-theme-itheme",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/issues/24",
+    "title": "\"Preview not shown\", \"\"No introduction on the homepage\" · Issue #24 · floyd-l...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/issues/5",
+    "title": "date & cover image doesn't show up · Issue #5 · floyd-li/hugo-theme-itheme",
     "count": 1,
     "uniques": 1
   }

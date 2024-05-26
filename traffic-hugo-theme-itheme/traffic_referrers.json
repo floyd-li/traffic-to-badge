@@ -1,22 +1,27 @@
 [
   {
     "referrer": "themes.gohugo.io",
-    "count": 75,
-    "uniques": 7
+    "count": 79,
+    "uniques": 9
   },
   {
     "referrer": "github.com",
-    "count": 5,
-    "uniques": 1
+    "count": 8,
+    "uniques": 2
   },
   {
     "referrer": "Google",
-    "count": 2,
-    "uniques": 1
+    "count": 3,
+    "uniques": 2
   },
   {
     "referrer": "2design.rr.nu",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "referrer": "hugothemesfree.com",
+    "count": 1,
     "uniques": 1
   },
   {
@@ -26,11 +31,6 @@
   },
   {
     "referrer": "v2ex.com",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "hugothemesfree.com",
     "count": 1,
     "uniques": 1
   }

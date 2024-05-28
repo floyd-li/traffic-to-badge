@@ -1,12 +1,17 @@
 [
   {
     "referrer": "themes.gohugo.io",
-    "count": 81,
-    "uniques": 11
+    "count": 83,
+    "uniques": 12
   },
   {
     "referrer": "github.com",
-    "count": 8,
+    "count": 15,
+    "uniques": 3
+  },
+  {
+    "referrer": "piramon-crux.com",
+    "count": 3,
     "uniques": 2
   },
   {
@@ -20,11 +25,6 @@
     "uniques": 1
   },
   {
-    "referrer": "jp.v2ex.com",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "referrer": "v2ex.com",
     "count": 1,
     "uniques": 1
@@ -35,7 +35,7 @@
     "uniques": 1
   },
   {
-    "referrer": "piramon-crux.com",
+    "referrer": "jp.v2ex.com",
     "count": 1,
     "uniques": 1
   }

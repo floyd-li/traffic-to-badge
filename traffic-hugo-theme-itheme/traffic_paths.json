@@ -2,8 +2,8 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 29,
-    "uniques": 15
+    "count": 33,
+    "uniques": 16
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
@@ -12,8 +12,32 @@
     "uniques": 2
   },
   {
+    "path": "/floyd-li/hugo-theme-itheme/blob/c22b5df3f2d7a3aaed5a961405ef23507d813d9a/exampleSite/config.toml",
+    "title": "hugo-theme-itheme/exampleSite/config.toml at c22b5df3f2d7a3aaed5a961405ef2350...",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/c22b5df3f2d7a3aaed5a961405ef23507d813d9a/layouts/index.html",
+    "title": "hugo-theme-itheme/layouts/index.html at c22b5df3f2d7a3aaed5a961405ef23507d813...",
+    "count": 4,
+    "uniques": 1
+  },
+  {
     "path": "/floyd-li/hugo-theme-itheme/issues",
     "title": "Issues · floyd-li/hugo-theme-itheme",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/c22b5df3f2d7a3aaed5a961405ef23507d813d9a/exampleSite/content",
+    "title": "hugo-theme-itheme/exampleSite/content at c22b5df3f2d7a3aaed5a961405ef23507d81...",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/c22b5df3f2d7a3aaed5a961405ef23507d813d9a/exampleSite/content/posts",
+    "title": "hugo-theme-itheme/exampleSite/content/posts at c22b5df3f2d7a3aaed5a961405ef23...",
     "count": 4,
     "uniques": 1
   },
@@ -30,21 +54,9 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/issues/4",
-    "title": "Added: Article Directory · Issue #4 · floyd-li/hugo-theme-itheme",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/issues/5",
-    "title": "date & cover image doesn't show up · Issue #5 · floyd-li/hugo-theme-itheme",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/issues/7",
-    "title": "Page Not Found · Issue #7 · floyd-li/hugo-theme-itheme",
-    "count": 1,
+    "path": "/floyd-li/hugo-theme-itheme/tree/c22b5df3f2d7a3aaed5a961405ef23507d813d9a/exampleSite",
+    "title": "hugo-theme-itheme/exampleSite at c22b5df3f2d7a3aaed5a961405ef23507d813d9a · f...",
+    "count": 2,
     "uniques": 1
   }
 ]

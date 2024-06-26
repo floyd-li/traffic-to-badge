@@ -2,13 +2,31 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 38,
-    "uniques": 22
+    "count": 42,
+    "uniques": 23
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/LICENSE",
     "title": "hugo-theme-itheme/LICENSE at master · floyd-li/hugo-theme-itheme",
     "count": 7,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master",
+    "title": "floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
+    "count": 6,
+    "uniques": 3
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/assets/js",
+    "title": "hugo-theme-itheme/assets/js at master · floyd-li/hugo-theme-itheme",
+    "count": 6,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/issues",
+    "title": "Issues · floyd-li/hugo-theme-itheme",
+    "count": 5,
     "uniques": 1
   },
   {
@@ -36,27 +54,9 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/issues",
-    "title": "Issues · floyd-li/hugo-theme-itheme",
-    "count": 4,
-    "uniques": 1
-  },
-  {
     "path": "/floyd-li/hugo-theme-itheme/tree/c22b5df3f2d7a3aaed5a961405ef23507d813d9a/exampleSite/content",
     "title": "hugo-theme-itheme/exampleSite/content at c22b5df3f2d7a3aaed5a961405ef23507d81...",
     "count": 4,
     "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/c22b5df3f2d7a3aaed5a961405ef23507d813d9a/exampleSite/content/posts",
-    "title": "hugo-theme-itheme/exampleSite/content/posts at c22b5df3f2d7a3aaed5a961405ef23...",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master",
-    "title": "floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 3,
-    "uniques": 2
   }
 ]

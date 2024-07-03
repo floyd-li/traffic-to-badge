@@ -2,8 +2,26 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 36,
-    "uniques": 20
+    "count": 39,
+    "uniques": 19
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/content/about.md",
+    "title": "hugo-theme-itheme/exampleSite/content/about.md at master · floyd-li/hugo-them...",
+    "count": 11,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/issues",
+    "title": "Issues · floyd-li/hugo-theme-itheme",
+    "count": 8,
+    "uniques": 3
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/content/posts/apple-introduces-the-new-homepod-with-breakthrough-sound-and-intelligence.md",
+    "title": "hugo-theme-itheme/exampleSite/content/posts/apple-introduces-the-new-homepod-...",
+    "count": 8,
+    "uniques": 1
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/LICENSE",
@@ -12,10 +30,10 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/issues",
-    "title": "Issues · floyd-li/hugo-theme-itheme",
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/config.toml",
+    "title": "hugo-theme-itheme/exampleSite/config.toml at master · floyd-li/hugo-theme-ith...",
     "count": 6,
-    "uniques": 2
+    "uniques": 1
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/assets/js",
@@ -24,39 +42,21 @@
     "uniques": 1
   },
   {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite/content/posts",
+    "title": "hugo-theme-itheme/exampleSite/content/posts at master · floyd-li/hugo-theme-i...",
+    "count": 6,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/assets/js/initPost.js",
+    "title": "hugo-theme-itheme/assets/js/initPost.js at master · floyd-li/hugo-theme-itheme",
+    "count": 5,
+    "uniques": 1
+  },
+  {
     "path": "/floyd-li/hugo-theme-itheme/tree/master",
     "title": "floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
     "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/assets/js/algolia.js",
-    "title": "hugo-theme-itheme/assets/js/algolia.js at master · floyd-li/hugo-theme-itheme",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/issues/24",
-    "title": "\"Preview not shown\", \"\"No introduction on the homepage\" · Issue #24 · floyd-l...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/assets",
-    "title": "hugo-theme-itheme/assets at master · floyd-li/hugo-theme-itheme",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/static",
-    "title": "hugo-theme-itheme/static at master · floyd-li/hugo-theme-itheme",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/static/js",
-    "title": "hugo-theme-itheme/static/js at master · floyd-li/hugo-theme-itheme",
-    "count": 2,
     "uniques": 1
   }
 ]

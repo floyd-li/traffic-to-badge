@@ -1,13 +1,13 @@
 [
   {
-    "referrer": "themes.gohugo.io",
-    "count": 14,
-    "uniques": 11
+    "referrer": "hugothemesfree.com",
+    "count": 48,
+    "uniques": 3
   },
   {
-    "referrer": "hugothemesfree.com",
-    "count": 9,
-    "uniques": 2
+    "referrer": "themes.gohugo.io",
+    "count": 33,
+    "uniques": 11
   },
   {
     "referrer": "v2ex.com",
@@ -21,11 +21,6 @@
   },
   {
     "referrer": "hugo-theme-itheme.netlify.app",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "Google",
     "count": 1,
     "uniques": 1
   }

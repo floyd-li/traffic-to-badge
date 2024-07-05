@@ -1,21 +1,26 @@
 [
   {
     "referrer": "hugothemesfree.com",
-    "count": 49,
-    "uniques": 4
+    "count": 41,
+    "uniques": 3
   },
   {
     "referrer": "themes.gohugo.io",
-    "count": 33,
-    "uniques": 11
+    "count": 32,
+    "uniques": 10
   },
   {
     "referrer": "github.com",
-    "count": 3,
-    "uniques": 1
+    "count": 4,
+    "uniques": 2
   },
   {
     "referrer": "v2ex.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "jp.v2ex.com",
     "count": 1,
     "uniques": 1
   },

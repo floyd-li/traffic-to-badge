@@ -2,20 +2,14 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 32,
-    "uniques": 17
+    "count": 23,
+    "uniques": 14
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/content/about.md",
     "title": "hugo-theme-itheme/exampleSite/content/about.md at master · floyd-li/hugo-them...",
     "count": 11,
     "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/issues",
-    "title": "Issues · floyd-li/hugo-theme-itheme",
-    "count": 8,
-    "uniques": 3
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/content/posts/apple-introduces-the-new-homepod-with-breakthrough-sound-and-intelligence.md",
@@ -26,12 +20,6 @@
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/config.toml",
     "title": "hugo-theme-itheme/exampleSite/config.toml at master · floyd-li/hugo-theme-ith...",
-    "count": 6,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/assets/js",
-    "title": "hugo-theme-itheme/assets/js at master · floyd-li/hugo-theme-itheme",
     "count": 6,
     "uniques": 1
   },
@@ -48,15 +36,27 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master",
-    "title": "floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
+    "path": "/floyd-li/hugo-theme-itheme/issues",
+    "title": "Issues · floyd-li/hugo-theme-itheme",
     "count": 3,
-    "uniques": 1
+    "uniques": 2
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite",
     "title": "hugo-theme-itheme/exampleSite at master · floyd-li/hugo-theme-itheme",
     "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/archetypes/posts.md",
+    "title": "hugo-theme-itheme/archetypes/posts.md at master · floyd-li/hugo-theme-itheme",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/config.toml",
+    "title": "hugo-theme-itheme/config.toml at master · floyd-li/hugo-theme-itheme",
+    "count": 2,
     "uniques": 1
   }
 ]

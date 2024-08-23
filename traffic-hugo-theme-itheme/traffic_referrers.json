@@ -1,8 +1,8 @@
 [
   {
     "referrer": "themes.gohugo.io",
-    "count": 39,
-    "uniques": 12
+    "count": 11,
+    "uniques": 10
   },
   {
     "referrer": "hugothemesfree.com",
@@ -11,6 +11,11 @@
   },
   {
     "referrer": "Google",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "referrer": "hugo-theme-itheme.netlify.app",
     "count": 1,
     "uniques": 1
   }

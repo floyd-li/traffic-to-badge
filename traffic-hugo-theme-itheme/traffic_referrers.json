@@ -1,8 +1,13 @@
 [
   {
     "referrer": "themes.gohugo.io",
-    "count": 13,
+    "count": 14,
     "uniques": 11
+  },
+  {
+    "referrer": "Google",
+    "count": 3,
+    "uniques": 2
   },
   {
     "referrer": "hugothemesfree.com",
@@ -10,7 +15,7 @@
     "uniques": 2
   },
   {
-    "referrer": "Google",
+    "referrer": "github.com",
     "count": 2,
     "uniques": 2
   },

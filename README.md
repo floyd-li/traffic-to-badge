@@ -274,6 +274,36 @@
 [![clones per week](https://raw.githubusercontent.com/floyd-li/traffic-to-badge/traffic/traffic-JetBrainsSettings/clones_per_week.svg)](https://github.com/floyd-li/traffic-to-badge/tree/traffic#-JetBrainsSettings)
 ```
 
+## 📚 [lut.js](https://github.com/floyd-li/traffic-to-badge/tree/traffic/traffic-lut.js)
+
+### 📷 Badges without link of [lut.js](https://github.com/floyd-li/traffic-to-badge/tree/traffic/traffic-lut.js)
+
+![views](https://raw.githubusercontent.com/floyd-li/traffic-to-badge/traffic/traffic-lut.js/views.svg)
+![views per week](https://raw.githubusercontent.com/floyd-li/traffic-to-badge/traffic/traffic-lut.js/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/floyd-li/traffic-to-badge/traffic/traffic-lut.js/clones.svg)
+![clones per week](https://raw.githubusercontent.com/floyd-li/traffic-to-badge/traffic/traffic-lut.js/clones_per_week.svg)
+
+```markdown
+![views](https://raw.githubusercontent.com/floyd-li/traffic-to-badge/traffic/traffic-lut.js/views.svg)
+![views per week](https://raw.githubusercontent.com/floyd-li/traffic-to-badge/traffic/traffic-lut.js/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/floyd-li/traffic-to-badge/traffic/traffic-lut.js/clones.svg)
+![clones per week](https://raw.githubusercontent.com/floyd-li/traffic-to-badge/traffic/traffic-lut.js/clones_per_week.svg)
+```
+
+### 🔗 Badges with link of [lut.js](https://github.com/floyd-li/traffic-to-badge/tree/traffic/traffic-lut.js)
+
+[![views](https://raw.githubusercontent.com/floyd-li/traffic-to-badge/traffic/traffic-lut.js/views.svg)](https://github.com/floyd-li/traffic-to-badge/tree/traffic#-lut.js)
+[![views per week](https://raw.githubusercontent.com/floyd-li/traffic-to-badge/traffic/traffic-lut.js/views_per_week.svg)](https://github.com/floyd-li/traffic-to-badge/tree/traffic#-lut.js)
+[![clones](https://raw.githubusercontent.com/floyd-li/traffic-to-badge/traffic/traffic-lut.js/clones.svg)](https://github.com/floyd-li/traffic-to-badge/tree/traffic#-lut.js)
+[![clones per week](https://raw.githubusercontent.com/floyd-li/traffic-to-badge/traffic/traffic-lut.js/clones_per_week.svg)](https://github.com/floyd-li/traffic-to-badge/tree/traffic#-lut.js)
+
+```markdown
+[![views](https://raw.githubusercontent.com/floyd-li/traffic-to-badge/traffic/traffic-lut.js/views.svg)](https://github.com/floyd-li/traffic-to-badge/tree/traffic#-lut.js)
+[![views per week](https://raw.githubusercontent.com/floyd-li/traffic-to-badge/traffic/traffic-lut.js/views_per_week.svg)](https://github.com/floyd-li/traffic-to-badge/tree/traffic#-lut.js)
+[![clones](https://raw.githubusercontent.com/floyd-li/traffic-to-badge/traffic/traffic-lut.js/clones.svg)](https://github.com/floyd-li/traffic-to-badge/tree/traffic#-lut.js)
+[![clones per week](https://raw.githubusercontent.com/floyd-li/traffic-to-badge/traffic/traffic-lut.js/clones_per_week.svg)](https://github.com/floyd-li/traffic-to-badge/tree/traffic#-lut.js)
+```
+
 ## 📚 [openwrt_config](https://github.com/floyd-li/traffic-to-badge/tree/traffic/traffic-openwrt_config)
 
 ### 📷 Badges without link of [openwrt_config](https://github.com/floyd-li/traffic-to-badge/tree/traffic/traffic-openwrt_config)

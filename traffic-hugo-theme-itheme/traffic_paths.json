@@ -2,61 +2,7 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 17,
-    "uniques": 11
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/content/posts/apple.md",
-    "title": "hugo-theme-itheme/exampleSite/content/posts/apple.md at master · floyd-li/hug...",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/content/posts/the-first-year-out-moving-from-student-to-3d-artist.md",
-    "title": "hugo-theme-itheme/exampleSite/content/posts/the-first-year-out-moving-from-st...",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/layouts/partials/archiveItem.html",
-    "title": "hugo-theme-itheme/layouts/partials/archiveItem.html at master · floyd-li/hugo...",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/layouts/_default/baseof.html",
-    "title": "hugo-theme-itheme/layouts/_default/baseof.html at master · floyd-li/hugo-them...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/layouts/_default/_markup/render-codeblock.html",
-    "title": "hugo-theme-itheme/layouts/_default/_markup/render-codeblock.html at master · ...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/layouts/_default/_markup/render-heading.html",
-    "title": "hugo-theme-itheme/layouts/_default/_markup/render-heading.html at master · fl...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/layouts/_default/single.html",
-    "title": "hugo-theme-itheme/layouts/_default/single.html at master · floyd-li/hugo-them...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/layouts/partials/function/resource.html",
-    "title": "hugo-theme-itheme/layouts/partials/function/resource.html at master · floyd-l...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/layouts/partials/pagination.html",
-    "title": "hugo-theme-itheme/layouts/partials/pagination.html at master · floyd-li/hugo-...",
-    "count": 2,
-    "uniques": 1
+    "count": 15,
+    "uniques": 10
   }
 ]

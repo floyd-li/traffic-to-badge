@@ -2,8 +2,20 @@
   {
     "path": "/floyd-li/itheme-demo-site",
     "title": "GitHub - floyd-li/itheme-demo-site: a demo site for hugo-theme-itheme",
-    "count": 6,
-    "uniques": 5
+    "count": 13,
+    "uniques": 6
+  },
+  {
+    "path": "/floyd-li/itheme-demo-site/tree/main/themes",
+    "title": "itheme-demo-site/themes at main · floyd-li/itheme-demo-site",
+    "count": 8,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/itheme-demo-site/tree/main",
+    "title": "floyd-li/itheme-demo-site: a demo site for hugo-theme-itheme",
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/floyd-li/itheme-demo-site/tree/main/content",
@@ -18,8 +30,8 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/itheme-demo-site/tree/main/themes",
-    "title": "itheme-demo-site/themes at main · floyd-li/itheme-demo-site",
+    "path": "/floyd-li/itheme-demo-site/tree/main/themes/netlify-basic",
+    "title": "itheme-demo-site/themes/netlify-basic at main · floyd-li/itheme-demo-site",
     "count": 1,
     "uniques": 1
   }

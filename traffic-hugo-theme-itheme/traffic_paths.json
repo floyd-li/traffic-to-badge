@@ -2,18 +2,48 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 23,
+    "count": 25,
     "uniques": 16
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/issues",
     "title": "Issues · floyd-li/hugo-theme-itheme · GitHub",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/actions",
+    "title": "Workflow runs · floyd-li/hugo-theme-itheme · GitHub",
     "count": 1,
     "uniques": 1
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/issues/28",
     "title": "Codeblocks appear to be broken · Issue #28 · floyd-li/hugo-theme-itheme · Git...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/projects",
+    "title": "Projects · hugo-theme-itheme · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/pulls",
+    "title": "Pull requests · floyd-li/hugo-theme-itheme · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/pulse",
+    "title": "Pulse · floyd-li/hugo-theme-itheme · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/security",
+    "title": "Security Overview · floyd-li/hugo-theme-itheme · GitHub",
     "count": 1,
     "uniques": 1
   }

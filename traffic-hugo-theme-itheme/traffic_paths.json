@@ -2,8 +2,8 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 28,
-    "uniques": 21
+    "count": 26,
+    "uniques": 20
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
@@ -20,7 +20,7 @@
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/content/about.md",
     "title": "hugo-theme-itheme/exampleSite/content/about.md at master · floyd-li/hugo-them...",
-    "count": 2,
+    "count": 3,
     "uniques": 1
   },
   {
@@ -42,12 +42,6 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/actions",
-    "title": "Workflow runs · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/config.toml",
     "title": "hugo-theme-itheme/exampleSite/config.toml at master · floyd-li/hugo-theme-ith...",
     "count": 1,
@@ -56,6 +50,12 @@
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/theme.toml",
     "title": "hugo-theme-itheme/theme.toml at master · floyd-li/hugo-theme-itheme",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/c22b5df3f2d7a3aaed5a961405ef23507d813d9a",
+    "title": "floyd-li/hugo-theme-itheme at c22b5df3f2d7a3aaed5a961405ef23507d813d9a",
     "count": 1,
     "uniques": 1
   }

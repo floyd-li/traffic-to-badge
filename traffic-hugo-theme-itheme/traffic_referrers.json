@@ -1,22 +1,27 @@
 [
   {
+    "referrer": "piramon-crux.com",
+    "count": 14,
+    "uniques": 1
+  },
+  {
     "referrer": "themes.gohugo.io",
-    "count": 11,
-    "uniques": 9
+    "count": 12,
+    "uniques": 10
   },
   {
     "referrer": "github.com",
-    "count": 4,
-    "uniques": 3
-  },
-  {
-    "referrer": "Google",
-    "count": 3,
+    "count": 5,
     "uniques": 3
   },
   {
     "referrer": "v2ex.com",
     "count": 3,
+    "uniques": 2
+  },
+  {
+    "referrer": "Google",
+    "count": 2,
     "uniques": 2
   },
   {

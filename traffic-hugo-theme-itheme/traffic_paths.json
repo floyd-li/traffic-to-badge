@@ -2,8 +2,8 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 18,
-    "uniques": 16
+    "count": 17,
+    "uniques": 15
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/issues",
@@ -36,26 +36,26 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/i18n/en.toml",
-    "title": "hugo-theme-itheme/i18n/en.toml at master · floyd-li/hugo-theme-itheme",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/i18n/zh-hans.toml",
-    "title": "hugo-theme-itheme/i18n/zh-hans.toml at master · floyd-li/hugo-theme-itheme",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
-    "title": "hugo-theme-itheme/README_CN.md at master · floyd-li/hugo-theme-itheme",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/theme.toml",
     "title": "hugo-theme-itheme/theme.toml at master · floyd-li/hugo-theme-itheme",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/forks",
+    "title": "Forks · floyd-li/hugo-theme-itheme · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/issues/1",
+    "title": "Roadmap · Issue #1 · floyd-li/hugo-theme-itheme",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite/content",
+    "title": "hugo-theme-itheme/exampleSite/content at master · floyd-li/hugo-theme-itheme",
     "count": 1,
     "uniques": 1
   }

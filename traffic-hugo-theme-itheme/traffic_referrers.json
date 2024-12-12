@@ -1,8 +1,13 @@
 [
   {
     "referrer": "themes.gohugo.io",
-    "count": 23,
+    "count": 29,
     "uniques": 7
+  },
+  {
+    "referrer": "github.com",
+    "count": 2,
+    "uniques": 1
   },
   {
     "referrer": "selfh.netlify.app",

@@ -1,7 +1,7 @@
 [
   {
     "referrer": "themes.gohugo.io",
-    "count": 40,
+    "count": 27,
     "uniques": 5
   },
   {
@@ -15,7 +15,7 @@
     "uniques": 5
   },
   {
-    "referrer": "cn.bing.com",
+    "referrer": "blackbox.ai",
     "count": 2,
     "uniques": 1
   },
@@ -25,13 +25,8 @@
     "uniques": 1
   },
   {
-    "referrer": "blackbox.ai",
+    "referrer": "cn.bing.com",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "referrer": "selfh.netlify.app",
-    "count": 1,
     "uniques": 1
   }
 ]

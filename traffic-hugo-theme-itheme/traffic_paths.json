@@ -2,14 +2,8 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 31,
-    "uniques": 17
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/config.toml",
-    "title": "hugo-theme-itheme/exampleSite/config.toml at master · floyd-li/hugo-theme-ith...",
-    "count": 4,
-    "uniques": 3
+    "count": 26,
+    "uniques": 16
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/content/posts/apple-introduces-the-new-homepod-with-breakthrough-sound-and-intelligence.md",
@@ -18,10 +12,10 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite",
-    "title": "hugo-theme-itheme/exampleSite at master · floyd-li/hugo-theme-itheme · GitHub",
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/config.toml",
+    "title": "hugo-theme-itheme/exampleSite/config.toml at master · floyd-li/hugo-theme-ith...",
     "count": 3,
-    "uniques": 3
+    "uniques": 2
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/config.toml",
@@ -44,6 +38,12 @@
   {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/assets/js",
     "title": "hugo-theme-itheme/assets/js at master · floyd-li/hugo-theme-itheme",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite",
+    "title": "hugo-theme-itheme/exampleSite at master · floyd-li/hugo-theme-itheme · GitHub",
     "count": 2,
     "uniques": 2
   },

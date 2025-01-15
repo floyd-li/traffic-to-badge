@@ -1,16 +1,16 @@
 [
   {
-    "referrer": "github.com",
+    "referrer": "themes.gohugo.io",
     "count": 2,
     "uniques": 2
   },
   {
-    "referrer": "Google",
+    "referrer": "github.com",
     "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "themes.gohugo.io",
+    "referrer": "Google",
     "count": 1,
     "uniques": 1
   }

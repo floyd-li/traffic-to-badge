@@ -1,13 +1,13 @@
 [
   {
-    "referrer": "themes.gohugo.io",
-    "count": 8,
-    "uniques": 7
+    "referrer": "Google",
+    "count": 7,
+    "uniques": 6
   },
   {
-    "referrer": "Google",
-    "count": 4,
-    "uniques": 4
+    "referrer": "themes.gohugo.io",
+    "count": 5,
+    "uniques": 5
   },
   {
     "referrer": "jp.v2ex.com",
@@ -18,11 +18,6 @@
     "referrer": "github.com",
     "count": 3,
     "uniques": 3
-  },
-  {
-    "referrer": "perplexity.ai",
-    "count": 1,
-    "uniques": 1
   },
   {
     "referrer": "v2ex.com",

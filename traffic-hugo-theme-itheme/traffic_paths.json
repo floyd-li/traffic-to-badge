@@ -2,60 +2,42 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 24,
-    "uniques": 22
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/config.toml",
-    "title": "hugo-theme-itheme/exampleSite/config.toml at master · floyd-li/hugo-theme-ith...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/layouts/_default/baseof.html",
-    "title": "hugo-theme-itheme/layouts/_default/baseof.html at master · floyd-li/hugo-them...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/layouts/_default/_markup/render-codeblock.html",
-    "title": "hugo-theme-itheme/layouts/_default/_markup/render-codeblock.html at master · ...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/layouts/_default/single.html",
-    "title": "hugo-theme-itheme/layouts/_default/single.html at master · floyd-li/hugo-them...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/layouts/index.html",
-    "title": "hugo-theme-itheme/layouts/index.html at master · floyd-li/hugo-theme-itheme",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/layouts/partials/footer.html",
-    "title": "hugo-theme-itheme/layouts/partials/footer.html at master · floyd-li/hugo-them...",
-    "count": 1,
-    "uniques": 1
+    "count": 31,
+    "uniques": 24
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
     "title": "hugo-theme-itheme/README_CN.md at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 1,
+    "count": 4,
+    "uniques": 2
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/content/posts/apple-launches-freeform-a-powerful-new-app-designed-for-creative-collaboration.md",
+    "title": "hugo-theme-itheme/exampleSite/content/posts/apple-launches-freeform-a-powerfu...",
+    "count": 4,
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/tree/c22b5df3f2d7a3aaed5a961405ef23507d813d9a",
-    "title": "floyd-li/hugo-theme-itheme at c22b5df3f2d7a3aaed5a961405ef23507d813d9a",
-    "count": 1,
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/content/posts/apple.md",
+    "title": "hugo-theme-itheme/exampleSite/content/posts/apple.md at master · floyd-li/hug...",
+    "count": 3,
     "uniques": 1
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite",
     "title": "hugo-theme-itheme/exampleSite at master · floyd-li/hugo-theme-itheme",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite/content",
+    "title": "hugo-theme-itheme/exampleSite/content at master · floyd-li/hugo-theme-itheme",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite/content/posts",
+    "title": "hugo-theme-itheme/exampleSite/content/posts at master · floyd-li/hugo-theme-i...",
     "count": 1,
     "uniques": 1
   }

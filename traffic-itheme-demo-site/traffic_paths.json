@@ -2,61 +2,7 @@
   {
     "path": "/floyd-li/itheme-demo-site",
     "title": "GitHub - floyd-li/itheme-demo-site: a demo site for hugo-theme-itheme",
-    "count": 7,
-    "uniques": 5
-  },
-  {
-    "path": "/floyd-li/itheme-demo-site/blob/main/content/about.md",
-    "title": "itheme-demo-site/content/about.md at main · floyd-li/itheme-demo-site",
-    "count": 6,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/itheme-demo-site/blob/main/content/posts/apple-introduces-the-new-homepod-with-breakthrough-sound-and-intelligence.md",
-    "title": "itheme-demo-site/content/posts/apple-introduces-the-new-homepod-with-breakthr...",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/itheme-demo-site/tree/main/content",
-    "title": "itheme-demo-site/content at main · floyd-li/itheme-demo-site",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/itheme-demo-site/tree/main/themes",
-    "title": "itheme-demo-site/themes at main · floyd-li/itheme-demo-site",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/itheme-demo-site/blob/main/config.toml",
-    "title": "itheme-demo-site/config.toml at main · floyd-li/itheme-demo-site",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/itheme-demo-site/blob/main/README.md",
-    "title": "itheme-demo-site/README.md at main · floyd-li/itheme-demo-site",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/itheme-demo-site/blob/main/archetypes/default.md",
-    "title": "itheme-demo-site/archetypes/default.md at main · floyd-li/itheme-demo-site",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/itheme-demo-site/blob/main/netlify.toml",
-    "title": "itheme-demo-site/netlify.toml at main · floyd-li/itheme-demo-site",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/itheme-demo-site/blob/main/renovate.json",
-    "title": "itheme-demo-site/renovate.json at main · floyd-li/itheme-demo-site",
-    "count": 1,
-    "uniques": 1
+    "uniques": 2
   }
 ]

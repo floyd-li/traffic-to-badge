@@ -1,8 +1,14 @@
 [
   {
     "path": "/floyd-li/itheme-demo-site",
-    "title": "GitHub - floyd-li/itheme-demo-site: a demo site for hugo-theme-itheme",
+    "title": "floyd-li/itheme-demo-site: a demo site for hugo-theme-itheme",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "path": "/floyd-li/itheme-demo-site/tree/main/content",
+    "title": "itheme-demo-site/content at main · floyd-li/itheme-demo-site",
+    "count": 1,
+    "uniques": 1
   }
 ]

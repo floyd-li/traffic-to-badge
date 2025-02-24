@@ -2,14 +2,26 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 36,
-    "uniques": 24
+    "count": 44,
+    "uniques": 28
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/layouts/index.html",
     "title": "hugo-theme-itheme/layouts/index.html at master · floyd-li/hugo-theme-itheme",
-    "count": 7,
-    "uniques": 1
+    "count": 13,
+    "uniques": 2
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/layouts/partials/header.html",
+    "title": "hugo-theme-itheme/layouts/partials/header.html at master · floyd-li/hugo-them...",
+    "count": 6,
+    "uniques": 2
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/layouts/partials/head.html",
+    "title": "hugo-theme-itheme/layouts/partials/head.html at master · floyd-li/hugo-theme-...",
+    "count": 5,
+    "uniques": 2
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite",
@@ -18,45 +30,33 @@
     "uniques": 2
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/blob/c22b5df3f2d7a3aaed5a961405ef23507d813d9a/assets/js/algolia.js",
-    "title": "hugo-theme-itheme/assets/js/algolia.js at c22b5df3f2d7a3aaed5a961405ef23507d8...",
-    "count": 4,
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/content/about.md",
+    "title": "hugo-theme-itheme/exampleSite/content/about.md at master · floyd-li/hugo-them...",
+    "count": 5,
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/content/posts/apple-launches-freeform-a-powerful-new-app-designed-for-creative-collaboration.md",
-    "title": "hugo-theme-itheme/exampleSite/content/posts/apple-launches-freeform-a-powerfu...",
-    "count": 3,
-    "uniques": 2
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/layouts/partials/tile.html",
+    "title": "hugo-theme-itheme/layouts/partials/tile.html at master · floyd-li/hugo-theme-...",
+    "count": 5,
+    "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/static/css/global.css",
-    "title": "hugo-theme-itheme/static/css/global.css at master · floyd-li/hugo-theme-itheme",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite/content",
-    "title": "hugo-theme-itheme/exampleSite/content at master · floyd-li/hugo-theme-itheme ...",
-    "count": 3,
+    "path": "/floyd-li/hugo-theme-itheme/tree/master",
+    "title": "hugo-theme-itheme/ at master · floyd-li/hugo-theme-itheme",
+    "count": 4,
     "uniques": 2
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite/content/posts",
     "title": "hugo-theme-itheme/exampleSite/content/posts at master · floyd-li/hugo-theme-i...",
-    "count": 3,
+    "count": 4,
     "uniques": 2
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/static",
-    "title": "hugo-theme-itheme/static at master · floyd-li/hugo-theme-itheme",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/content/posts/battle-testing-unreal-engine-5-1-s-new-features-on-fortnite-battle-royale-chapter-4.md",
-    "title": "hugo-theme-itheme/exampleSite/content/posts/battle-testing-unreal-engine-5-1-...",
-    "count": 3,
+    "path": "/floyd-li/hugo-theme-itheme/blob/c22b5df3f2d7a3aaed5a961405ef23507d813d9a/assets/js/algolia.js",
+    "title": "hugo-theme-itheme/assets/js/algolia.js at c22b5df3f2d7a3aaed5a961405ef23507d8...",
+    "count": 4,
     "uniques": 1
   }
 ]

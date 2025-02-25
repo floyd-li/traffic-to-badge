@@ -2,8 +2,8 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 44,
-    "uniques": 28
+    "count": 37,
+    "uniques": 26
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/layouts/index.html",
@@ -42,12 +42,6 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master",
-    "title": "hugo-theme-itheme/ at master · floyd-li/hugo-theme-itheme",
-    "count": 4,
-    "uniques": 2
-  },
-  {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite/content/posts",
     "title": "hugo-theme-itheme/exampleSite/content/posts at master · floyd-li/hugo-theme-i...",
     "count": 4,
@@ -58,5 +52,11 @@
     "title": "hugo-theme-itheme/assets/js/algolia.js at c22b5df3f2d7a3aaed5a961405ef23507d8...",
     "count": 4,
     "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/content/posts/apple-launches-freeform-a-powerful-new-app-designed-for-creative-collaboration.md",
+    "title": "hugo-theme-itheme/exampleSite/content/posts/apple-launches-freeform-a-powerfu...",
+    "count": 3,
+    "uniques": 2
   }
 ]

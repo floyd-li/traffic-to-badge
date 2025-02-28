@@ -2,8 +2,8 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 46,
-    "uniques": 36
+    "count": 54,
+    "uniques": 39
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/layouts/index.html",
@@ -15,6 +15,18 @@
     "path": "/floyd-li/hugo-theme-itheme/blob/master/layouts/partials/header.html",
     "title": "hugo-theme-itheme/layouts/partials/header.html at master · floyd-li/hugo-them...",
     "count": 6,
+    "uniques": 2
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/layouts/partials/tile.html",
+    "title": "hugo-theme-itheme/layouts/partials/tile.html at master · floyd-li/hugo-theme-...",
+    "count": 6,
+    "uniques": 2
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/layouts/partials/footer.html",
+    "title": "hugo-theme-itheme/layouts/partials/footer.html at master · floyd-li/hugo-them...",
+    "count": 5,
     "uniques": 2
   },
   {
@@ -30,14 +42,14 @@
     "uniques": 2
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/content/about.md",
-    "title": "hugo-theme-itheme/exampleSite/content/about.md at master · floyd-li/hugo-them...",
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/layouts/partials",
+    "title": "hugo-theme-itheme/layouts/partials at master · floyd-li/hugo-theme-itheme · G...",
     "count": 5,
-    "uniques": 1
+    "uniques": 2
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/layouts/partials/tile.html",
-    "title": "hugo-theme-itheme/layouts/partials/tile.html at master · floyd-li/hugo-theme-...",
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/content/about.md",
+    "title": "hugo-theme-itheme/exampleSite/content/about.md at master · floyd-li/hugo-them...",
     "count": 5,
     "uniques": 1
   },
@@ -45,18 +57,6 @@
     "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite/content/posts",
     "title": "hugo-theme-itheme/exampleSite/content/posts at master · floyd-li/hugo-theme-i...",
     "count": 4,
-    "uniques": 2
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/c22b5df3f2d7a3aaed5a961405ef23507d813d9a/assets/js/algolia.js",
-    "title": "hugo-theme-itheme/assets/js/algolia.js at c22b5df3f2d7a3aaed5a961405ef23507d8...",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/content/posts/apple-launches-freeform-a-powerful-new-app-designed-for-creative-collaboration.md",
-    "title": "hugo-theme-itheme/exampleSite/content/posts/apple-launches-freeform-a-powerfu...",
-    "count": 3,
     "uniques": 2
   }
 ]

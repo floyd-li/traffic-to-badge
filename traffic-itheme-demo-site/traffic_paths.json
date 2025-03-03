@@ -2,8 +2,50 @@
   {
     "path": "/floyd-li/itheme-demo-site",
     "title": "GitHub - floyd-li/itheme-demo-site: a demo site for hugo-theme-itheme",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/floyd-li/itheme-demo-site/blob/main/config.toml",
+    "title": "itheme-demo-site/config.toml at main · floyd-li/itheme-demo-site",
     "count": 2,
-    "uniques": 2
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/itheme-demo-site/new/main",
+    "title": "New File at / · floyd-li/itheme-demo-site",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/itheme-demo-site/pull/1",
+    "title": "pagination.pagerSize by cookiemonster · Pull Request #1 · floyd-li/itheme-dem...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/itheme-demo-site/compare/main...cookiemonster:itheme-demo-site:patch-1",
+    "title": "Comparing floyd-li:main...cookiemonster:patch-1 · floyd-li/itheme-demo-site",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/itheme-demo-site/edit/main/config.toml",
+    "title": "Editing itheme-demo-site/config.toml at main · floyd-li/itheme-demo-site",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/itheme-demo-site/pull/1/commits",
+    "title": "pagination.pagerSize by cookiemonster · Pull Request #1 · floyd-li/itheme-dem...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/itheme-demo-site/tree/main",
+    "title": "floyd-li/itheme-demo-site: a demo site for hugo-theme-itheme",
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/floyd-li/itheme-demo-site/tree/main/content",

@@ -3,7 +3,7 @@
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
     "count": 55,
-    "uniques": 43
+    "uniques": 45
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/i18n",
@@ -24,10 +24,28 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/theme.toml",
-    "title": "hugo-theme-itheme/theme.toml at master · floyd-li/hugo-theme-itheme",
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/content/posts/apple.md",
+    "title": "hugo-theme-itheme/exampleSite/content/posts/apple.md at master · floyd-li/hug...",
     "count": 2,
-    "uniques": 2
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite",
+    "title": "hugo-theme-itheme/exampleSite at master · floyd-li/hugo-theme-itheme",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite/content",
+    "title": "hugo-theme-itheme/exampleSite/content at master · floyd-li/hugo-theme-itheme",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite/content/posts",
+    "title": "hugo-theme-itheme/exampleSite/content/posts at master · floyd-li/hugo-theme-i...",
+    "count": 2,
+    "uniques": 1
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/.github/workflows",
@@ -38,24 +56,6 @@
   {
     "path": "/floyd-li/hugo-theme-itheme/blame/master/i18n/de.toml",
     "title": "Blaming hugo-theme-itheme/i18n/de.toml at master · floyd-li/hugo-theme-itheme...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blame/master/LICENSE",
-    "title": "Blaming hugo-theme-itheme/LICENSE at master · floyd-li/hugo-theme-itheme · Gi...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/config.toml",
-    "title": "hugo-theme-itheme/config.toml at master · floyd-li/hugo-theme-itheme",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/i18n/de.toml",
-    "title": "hugo-theme-itheme/i18n/de.toml at master · floyd-li/hugo-theme-itheme · GitHub",
     "count": 1,
     "uniques": 1
   }

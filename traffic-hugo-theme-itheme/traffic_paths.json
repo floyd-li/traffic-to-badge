@@ -2,14 +2,8 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 61,
-    "uniques": 48
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/i18n",
-    "title": "hugo-theme-itheme/i18n at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 3,
-    "uniques": 2
+    "count": 55,
+    "uniques": 44
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/LICENSE",
@@ -54,8 +48,14 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/blame/master/i18n/de.toml",
-    "title": "Blaming hugo-theme-itheme/i18n/de.toml at master · floyd-li/hugo-theme-itheme...",
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/i18n",
+    "title": "hugo-theme-itheme/i18n at master · floyd-li/hugo-theme-itheme · GitHub",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blame/master/LICENSE",
+    "title": "Blaming hugo-theme-itheme/LICENSE at master · floyd-li/hugo-theme-itheme · Gi...",
     "count": 1,
     "uniques": 1
   }

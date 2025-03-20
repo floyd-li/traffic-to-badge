@@ -2,14 +2,8 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 64,
+    "count": 61,
     "uniques": 50
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/LICENSE",
-    "title": "hugo-theme-itheme/LICENSE at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 3,
-    "uniques": 1
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
@@ -42,20 +36,20 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/.github/workflows",
-    "title": "hugo-theme-itheme/.github/workflows at master · floyd-li/hugo-theme-itheme · ...",
-    "count": 2,
+    "path": "/floyd-li/hugo-theme-itheme/issues",
+    "title": "GitHub · Where software is built",
+    "count": 1,
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/i18n",
-    "title": "hugo-theme-itheme/i18n at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 2,
+    "path": "/floyd-li/hugo-theme-itheme/pulls",
+    "title": "Pull requests · floyd-li/hugo-theme-itheme · GitHub",
+    "count": 1,
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/blame/master/LICENSE",
-    "title": "Blaming hugo-theme-itheme/LICENSE at master · floyd-li/hugo-theme-itheme · Gi...",
+    "path": "/floyd-li/hugo-theme-itheme/tree/c22b5df3f2d7a3aaed5a961405ef23507d813d9a",
+    "title": "floyd-li/hugo-theme-itheme at c22b5df3f2d7a3aaed5a961405ef23507d813d9a",
     "count": 1,
     "uniques": 1
   }

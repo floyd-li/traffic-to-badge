@@ -2,8 +2,8 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 17,
-    "uniques": 13
+    "count": 13,
+    "uniques": 10
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/c22b5df3f2d7a3aaed5a961405ef23507d813d9a/i18n/en.toml",
@@ -36,6 +36,12 @@
     "uniques": 1
   },
   {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/content/posts/captured-on-iphone-14-photographers-inspire-iphone-users-to-capture-portraits-landscapes-city-scenes-and-stunning-videos.md",
+    "title": "hugo-theme-itheme/exampleSite/content/posts/captured-on-iphone-14-photographe...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/content/posts/mark-down-syntax.md",
     "title": "hugo-theme-itheme/exampleSite/content/posts/mark-down-syntax.md at master · f...",
     "count": 2,
@@ -51,12 +57,6 @@
     "path": "/floyd-li/hugo-theme-itheme/tree/c22b5df3f2d7a3aaed5a961405ef23507d813d9a/exampleSite",
     "title": "hugo-theme-itheme/exampleSite at c22b5df3f2d7a3aaed5a961405ef23507d813d9a · f...",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/c22b5df3f2d7a3aaed5a961405ef23507d813d9a/.github/workflows/update_demo_site.yml",
-    "title": "hugo-theme-itheme/.github/workflows/update_demo_site.yml at c22b5df3f2d7a3aae...",
-    "count": 1,
     "uniques": 1
   }
 ]

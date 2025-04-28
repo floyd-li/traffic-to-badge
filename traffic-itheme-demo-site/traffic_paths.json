@@ -2,8 +2,14 @@
   {
     "path": "/floyd-li/itheme-demo-site",
     "title": "floyd-li/itheme-demo-site: a demo site for hugo-theme-itheme",
-    "count": 6,
-    "uniques": 4
+    "count": 5,
+    "uniques": 3
+  },
+  {
+    "path": "/floyd-li/itheme-demo-site/compare/main...Gidroforum:gidroforum:main",
+    "title": "Comparing floyd-li:main...Gidroforum:main · floyd-li/itheme-demo-site",
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/floyd-li/itheme-demo-site/tree/main/themes",

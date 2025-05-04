@@ -2,26 +2,8 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 17,
-    "uniques": 15
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/c22b5df3f2d7a3aaed5a961405ef23507d813d9a/i18n/en.toml",
-    "title": "hugo-theme-itheme/i18n/en.toml at c22b5df3f2d7a3aaed5a961405ef23507d813d9a · ...",
-    "count": 9,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/c22b5df3f2d7a3aaed5a961405ef23507d813d9a/i18n",
-    "title": "hugo-theme-itheme/i18n at c22b5df3f2d7a3aaed5a961405ef23507d813d9a · floyd-li...",
-    "count": 9,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/c22b5df3f2d7a3aaed5a961405ef23507d813d9a",
-    "title": "hugo-theme-itheme/ at c22b5df3f2d7a3aaed5a961405ef23507d813d9a · floyd-li/hug...",
-    "count": 7,
-    "uniques": 1
+    "count": 21,
+    "uniques": 19
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite",
@@ -48,14 +30,32 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/tree/c22b5df3f2d7a3aaed5a961405ef23507d813d9a/exampleSite",
-    "title": "hugo-theme-itheme/exampleSite at c22b5df3f2d7a3aaed5a961405ef23507d813d9a · f...",
-    "count": 2,
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/config.toml",
+    "title": "hugo-theme-itheme/exampleSite/config.toml at master · floyd-li/hugo-theme-ith...",
+    "count": 1,
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/blob/c22b5df3f2d7a3aaed5a961405ef23507d813d9a/.github/workflows/update_demo_site.yml",
-    "title": "hugo-theme-itheme/.github/workflows/update_demo_site.yml at c22b5df3f2d7a3aae...",
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/content/posts/apple.md",
+    "title": "hugo-theme-itheme/exampleSite/content/posts/apple.md at master · floyd-li/hug...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/content/posts/battle-testing-unreal-engine-5-1-s-new-features-on-fortnite-battle-royale-chapter-4.md",
+    "title": "hugo-theme-itheme/exampleSite/content/posts/battle-testing-unreal-engine-5-1-...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
+    "title": "hugo-theme-itheme/README_CN.md at master · floyd-li/hugo-theme-itheme",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite/content",
+    "title": "hugo-theme-itheme/exampleSite/content at master · floyd-li/hugo-theme-itheme ...",
     "count": 1,
     "uniques": 1
   }

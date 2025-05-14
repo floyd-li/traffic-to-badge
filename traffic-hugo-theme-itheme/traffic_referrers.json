@@ -1,13 +1,13 @@
 [
   {
-    "referrer": "Google",
-    "count": 9,
-    "uniques": 6
-  },
-  {
     "referrer": "themes.gohugo.io",
     "count": 9,
     "uniques": 5
+  },
+  {
+    "referrer": "Google",
+    "count": 7,
+    "uniques": 6
   },
   {
     "referrer": "overhollywood.com",
@@ -15,7 +15,7 @@
     "uniques": 1
   },
   {
-    "referrer": "astrobiobites.org",
+    "referrer": "github.com",
     "count": 1,
     "uniques": 1
   }

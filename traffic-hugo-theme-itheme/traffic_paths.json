@@ -2,8 +2,14 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 24,
-    "uniques": 15
+    "count": 29,
+    "uniques": 14
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master",
+    "title": "hugo-theme-itheme/ at master · floyd-li/hugo-theme-itheme · GitHub",
+    "count": 3,
+    "uniques": 2
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/.github/workflows",
@@ -12,14 +18,44 @@
     "uniques": 2
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master",
-    "title": "hugo-theme-itheme/ at master · floyd-li/hugo-theme-itheme · GitHub",
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite",
+    "title": "hugo-theme-itheme/exampleSite at master · floyd-li/hugo-theme-itheme",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/layouts/index.html",
+    "title": "hugo-theme-itheme/layouts/index.html at master · floyd-li/hugo-theme-itheme",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/static/css/custom.css",
+    "title": "hugo-theme-itheme/static/css/custom.css at master · floyd-li/hugo-theme-itheme",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite/content",
+    "title": "hugo-theme-itheme/exampleSite/content at master · floyd-li/hugo-theme-itheme",
     "count": 1,
     "uniques": 1
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/.github",
     "title": "hugo-theme-itheme/.github at master · floyd-li/hugo-theme-itheme · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/i18n",
+    "title": "hugo-theme-itheme/i18n at master · floyd-li/hugo-theme-itheme · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/layouts",
+    "title": "hugo-theme-itheme/layouts at master · floyd-li/hugo-theme-itheme",
     "count": 1,
     "uniques": 1
   }

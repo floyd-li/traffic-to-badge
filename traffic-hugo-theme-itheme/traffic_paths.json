@@ -2,20 +2,14 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 37,
-    "uniques": 18
+    "count": 33,
+    "uniques": 20
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/layouts",
     "title": "hugo-theme-itheme/layouts at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 20,
-    "uniques": 2
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master",
-    "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 7,
-    "uniques": 2
+    "count": 19,
+    "uniques": 1
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/layouts/taxonomy",
@@ -24,16 +18,22 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite",
-    "title": "hugo-theme-itheme/exampleSite at master · floyd-li/hugo-theme-itheme · GitHub",
-    "count": 6,
-    "uniques": 3
-  },
-  {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/layouts/_default",
     "title": "hugo-theme-itheme/layouts/_default at master · floyd-li/hugo-theme-itheme · G...",
     "count": 6,
     "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master",
+    "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
+    "count": 5,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite",
+    "title": "hugo-theme-itheme/exampleSite at master · floyd-li/hugo-theme-itheme · GitHub",
+    "count": 4,
+    "uniques": 2
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/layouts/taxonomy/list.html",
@@ -48,14 +48,14 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite/content",
-    "title": "hugo-theme-itheme/exampleSite/content at master · floyd-li/hugo-theme-itheme ...",
-    "count": 3,
-    "uniques": 3
-  },
-  {
     "path": "/floyd-li/hugo-theme-itheme/issues",
     "title": "GitHub · Where software is built",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite/content",
+    "title": "hugo-theme-itheme/exampleSite/content at master · floyd-li/hugo-theme-itheme ...",
     "count": 2,
     "uniques": 2
   }

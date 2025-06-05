@@ -2,12 +2,18 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 25,
+    "count": 24,
     "uniques": 19
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/issues",
-    "title": "GitHub · Where software is built",
+    "title": "Repo Issues",
+    "count": 4,
+    "uniques": 3
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/issues/27",
+    "title": "请问在哪设置导航菜单 · Issue #27 · floyd-li/hugo-theme-itheme",
     "count": 2,
     "uniques": 2
   },
@@ -20,18 +26,6 @@
   {
     "path": "/floyd-li/hugo-theme-itheme/issues/21",
     "title": "Local .jpg cover photos not showing up in /posts 'View Archive' section · Iss...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/issues/27",
-    "title": "请问在哪设置导航菜单 · Issue #27 · floyd-li/hugo-theme-itheme",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/c22b5df3f2d7a3aaed5a961405ef23507d813d9a",
-    "title": "floyd-li/hugo-theme-itheme at c22b5df3f2d7a3aaed5a961405ef23507d813d9a",
     "count": 1,
     "uniques": 1
   },

@@ -2,8 +2,8 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 27,
-    "uniques": 13
+    "count": 25,
+    "uniques": 11
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
@@ -12,16 +12,16 @@
     "uniques": 3
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/issues",
-    "title": "Repo Issues",
-    "count": 4,
-    "uniques": 3
-  },
-  {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/content/posts/captured-on-iphone-14-photographers-inspire-iphone-users-to-capture-portraits-landscapes-city-scenes-and-stunning-videos.md",
     "title": "hugo-theme-itheme/exampleSite/content/posts/captured-on-iphone-14-photographe...",
     "count": 4,
     "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/issues",
+    "title": "GitHub · Where software is built",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/config.toml",
@@ -42,12 +42,6 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/issues/27",
-    "title": "请问在哪设置导航菜单 · Issue #27 · floyd-li/hugo-theme-itheme",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/archetypes",
     "title": "hugo-theme-itheme/archetypes at master · floyd-li/hugo-theme-itheme",
     "count": 1,
@@ -56,6 +50,12 @@
   {
     "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite",
     "title": "hugo-theme-itheme/exampleSite at master · floyd-li/hugo-theme-itheme",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite/content",
+    "title": "hugo-theme-itheme/exampleSite/content at master · floyd-li/hugo-theme-itheme",
     "count": 1,
     "uniques": 1
   }

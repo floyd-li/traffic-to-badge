@@ -20,8 +20,13 @@
     "uniques": 1
   },
   {
-    "referrer": "decaminoaningunaparte.com",
+    "referrer": "hugo-theme-itheme.netlify.app",
     "count": 2,
-    "uniques": 2
+    "uniques": 1
+  },
+  {
+    "referrer": "decaminoaningunaparte.com",
+    "count": 1,
+    "uniques": 1
   }
 ]

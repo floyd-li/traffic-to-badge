@@ -2,14 +2,14 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "GitHub - floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
-    "count": 27,
-    "uniques": 10
+    "count": 30,
+    "uniques": 9
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/tree/c22b5df3f2d7a3aaed5a961405ef23507d813d9a",
     "title": "floyd-li/hugo-theme-itheme at c22b5df3f2d7a3aaed5a961405ef23507d813d9a",
-    "count": 6,
-    "uniques": 1
+    "count": 11,
+    "uniques": 2
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
@@ -18,10 +18,34 @@
     "uniques": 3
   },
   {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/config.toml",
+    "title": "hugo-theme-itheme/config.toml at master · floyd-li/hugo-theme-itheme",
+    "count": 4,
+    "uniques": 2
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/c22b5df3f2d7a3aaed5a961405ef23507d813d9a/layouts",
+    "title": "hugo-theme-itheme/layouts at c22b5df3f2d7a3aaed5a961405ef23507d813d9a · floyd...",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite",
+    "title": "hugo-theme-itheme/exampleSite at master · floyd-li/hugo-theme-itheme",
+    "count": 3,
+    "uniques": 2
+  },
+  {
     "path": "/floyd-li/hugo-theme-itheme/branches",
     "title": "Branches · floyd-li/hugo-theme-itheme",
     "count": 3,
     "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/theme.toml",
+    "title": "hugo-theme-itheme/theme.toml at master · floyd-li/hugo-theme-itheme",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/tree/master",
@@ -30,33 +54,9 @@
     "uniques": 2
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/layouts/taxonomy/terms.html",
-    "title": "floyd-li/hugo-theme-itheme: An Apple style theme for hugo",
+    "path": "/floyd-li/hugo-theme-itheme/tree/master/layouts",
+    "title": "hugo-theme-itheme/layouts at master · floyd-li/hugo-theme-itheme",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/commits/master",
-    "title": "Commits · floyd-li/hugo-theme-itheme",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/c22b5df3f2d7a3aaed5a961405ef23507d813d9a/layouts",
-    "title": "hugo-theme-itheme/layouts at c22b5df3f2d7a3aaed5a961405ef23507d813d9a · floyd...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/c22b5df3f2d7a3aaed5a961405ef23507d813d9a/layouts/taxonomy",
-    "title": "hugo-theme-itheme/layouts/taxonomy at c22b5df3f2d7a3aaed5a961405ef23507d813d9...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/c22b5df3f2d7a3aaed5a961405ef23507d813d9a/archetypes/posts.md",
-    "title": "hugo-theme-itheme/archetypes/posts.md at c22b5df3f2d7a3aaed5a961405ef23507d81...",
-    "count": 1,
-    "uniques": 1
+    "uniques": 2
   }
 ]

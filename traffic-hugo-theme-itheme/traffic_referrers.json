@@ -6,17 +6,17 @@
   },
   {
     "referrer": "Google",
-    "count": 31,
-    "uniques": 8
-  },
-  {
-    "referrer": "themes.gohugo.io",
-    "count": 2,
-    "uniques": 2
+    "count": 34,
+    "uniques": 9
   },
   {
     "referrer": "hugo-theme-itheme.netlify.app",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "referrer": "themes.gohugo.io",
+    "count": 1,
     "uniques": 1
   }
 ]

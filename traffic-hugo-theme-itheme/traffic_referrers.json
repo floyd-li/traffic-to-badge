@@ -1,22 +1,17 @@
 [
   {
     "referrer": "github.com",
-    "count": 43,
-    "uniques": 3
+    "count": 21,
+    "uniques": 2
   },
   {
     "referrer": "Google",
-    "count": 34,
+    "count": 17,
     "uniques": 9
   },
   {
     "referrer": "hugo-theme-itheme.netlify.app",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "referrer": "themes.gohugo.io",
-    "count": 1,
     "uniques": 1
   }
 ]

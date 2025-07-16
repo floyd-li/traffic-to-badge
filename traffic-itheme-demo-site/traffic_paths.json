@@ -2,50 +2,26 @@
   {
     "path": "/floyd-li/itheme-demo-site",
     "title": "floyd-li/itheme-demo-site: a demo site for hugo-theme-itheme",
-    "count": 12,
-    "uniques": 2
+    "count": 7,
+    "uniques": 1
   },
   {
     "path": "/floyd-li/itheme-demo-site/tree/main/content",
     "title": "itheme-demo-site/content at main · floyd-li/itheme-demo-site",
-    "count": 8,
-    "uniques": 2
-  },
-  {
-    "path": "/floyd-li/itheme-demo-site/tree/main/themes",
-    "title": "itheme-demo-site/themes at main · floyd-li/itheme-demo-site",
     "count": 7,
-    "uniques": 2
+    "uniques": 1
   },
   {
     "path": "/floyd-li/itheme-demo-site/tree/main/content/posts",
     "title": "itheme-demo-site/content/posts at main · floyd-li/itheme-demo-site",
-    "count": 5,
-    "uniques": 2
-  },
-  {
-    "path": "/floyd-li/itheme-demo-site/blob/main/config.toml",
-    "title": "itheme-demo-site/config.toml at main · floyd-li/itheme-demo-site",
     "count": 4,
-    "uniques": 2
+    "uniques": 1
   },
   {
-    "path": "/floyd-li/itheme-demo-site/tree/main",
-    "title": "floyd-li/itheme-demo-site: a demo site for hugo-theme-itheme",
+    "path": "/floyd-li/itheme-demo-site/tree/main/themes",
+    "title": "itheme-demo-site/themes at main · floyd-li/itheme-demo-site",
     "count": 4,
-    "uniques": 2
-  },
-  {
-    "path": "/floyd-li/itheme-demo-site/blob/main/content/posts/apple.md",
-    "title": "itheme-demo-site/content/posts/apple.md at main · floyd-li/itheme-demo-site",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/floyd-li/itheme-demo-site/tree/main/archetypes",
-    "title": "itheme-demo-site/archetypes at main · floyd-li/itheme-demo-site",
-    "count": 3,
-    "uniques": 2
+    "uniques": 1
   },
   {
     "path": "/floyd-li/itheme-demo-site/blob/main/content/posts/apple-introduces-the-new-homepod-with-breakthrough-sound-and-intelligence.md",
@@ -54,9 +30,33 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/itheme-demo-site/blob/main/archetypes/default.md",
-    "title": "itheme-demo-site/archetypes/default.md at main · floyd-li/itheme-demo-site",
+    "path": "/floyd-li/itheme-demo-site/tree/main",
+    "title": "floyd-li/itheme-demo-site: a demo site for hugo-theme-itheme",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/itheme-demo-site/blob/main/config.toml",
+    "title": "itheme-demo-site/config.toml at main · floyd-li/itheme-demo-site",
     "count": 2,
-    "uniques": 2
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/itheme-demo-site/blob/main/content/posts/apple-launches-freeform-a-powerful-new-app-designed-for-creative-collaboration.md",
+    "title": "itheme-demo-site/content/posts/apple-launches-freeform-a-powerful-new-app-des...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/itheme-demo-site/blob/main/content/posts/apple.md",
+    "title": "itheme-demo-site/content/posts/apple.md at main · floyd-li/itheme-demo-site",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/itheme-demo-site/blob/main/content/posts/apple-reports-first-quarter-results.md",
+    "title": "itheme-demo-site/content/posts/apple-reports-first-quarter-results.md at main...",
+    "count": 2,
+    "uniques": 1
   }
 ]

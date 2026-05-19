@@ -2,37 +2,7 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "Overview",
-    "count": 4,
-    "uniques": 3
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite",
-    "title": "/tree/master/exampleSite",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/exampleSite/config.toml",
-    "title": "/blob/master/exampleSite/config.toml",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master",
-    "title": "/tree/master",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite/content",
-    "title": "/tree/master/exampleSite/content",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/tree/master/exampleSite/content/posts",
-    "title": "/tree/master/exampleSite/content/posts",
-    "count": 1,
-    "uniques": 1
+    "uniques": 2
   }
 ]

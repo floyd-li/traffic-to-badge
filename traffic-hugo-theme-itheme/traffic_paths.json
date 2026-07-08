@@ -12,8 +12,32 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/issues/25",
-    "title": "/issues/25",
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/README.md",
+    "title": "/blob/master/README.md",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
+    "title": "/blob/master/README_CN.md",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/issues/10",
+    "title": "/issues/10",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/issues/22",
+    "title": "/issues/22",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/pull/13",
+    "title": "/pull/13",
     "count": 1,
     "uniques": 1
   },

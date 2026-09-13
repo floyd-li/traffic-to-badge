@@ -2,12 +2,18 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "Overview",
-    "count": 6,
-    "uniques": 5
+    "count": 5,
+    "uniques": 4
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/README.md",
     "title": "/blob/master/README.md",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/issues",
+    "title": "/issues",
     "count": 1,
     "uniques": 1
   },

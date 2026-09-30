@@ -2,14 +2,8 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "Overview",
-    "count": 6,
-    "uniques": 5
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
-    "title": "/blob/master/README_CN.md",
-    "count": 1,
-    "uniques": 1
+    "count": 4,
+    "uniques": 4
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/issues",
@@ -18,8 +12,8 @@
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/issues/14",
-    "title": "/issues/14",
+    "path": "/floyd-li/hugo-theme-itheme/issues/27",
+    "title": "/issues/27",
     "count": 1,
     "uniques": 1
   }

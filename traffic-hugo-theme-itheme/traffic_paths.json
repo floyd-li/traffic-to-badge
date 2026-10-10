@@ -6,20 +6,38 @@
     "uniques": 2
   },
   {
+    "path": "/floyd-li/hugo-theme-itheme/issues",
+    "title": "/issues",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/issues/27",
+    "title": "/issues/27",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/README.md",
+    "title": "/blob/master/README.md",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/floyd-li/hugo-theme-itheme/compare/master...JiamingOfficial:itheme:master",
     "title": "/compare/master...JiamingOfficial:itheme:master",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/issues",
-    "title": "/issues",
+    "path": "/floyd-li/hugo-theme-itheme/issues/25",
+    "title": "/issues/25",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/floyd-li/hugo-theme-itheme/issues/27",
-    "title": "/issues/27",
+    "path": "/floyd-li/hugo-theme-itheme/issues/28",
+    "title": "/issues/28",
     "count": 1,
     "uniques": 1
   }

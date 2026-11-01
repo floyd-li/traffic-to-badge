@@ -6,6 +6,18 @@
     "uniques": 7
   },
   {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/README.md",
+    "title": "/blob/master/README.md",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
+    "title": "/blob/master/README_CN.md",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/config.toml",
     "title": "/blob/master/config.toml",
     "count": 1,

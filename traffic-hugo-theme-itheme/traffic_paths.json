@@ -22,5 +22,11 @@
     "title": "/blob/master/config.toml",
     "count": 1,
     "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/blob/master/images/screenshot.png",
+    "title": "/blob/master/images/screenshot.png",
+    "count": 1,
+    "uniques": 1
   }
 ]

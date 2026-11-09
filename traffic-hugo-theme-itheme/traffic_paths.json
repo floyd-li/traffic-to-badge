@@ -14,20 +14,14 @@
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/README.md",
     "title": "/blob/master/README.md",
-    "count": 3,
-    "uniques": 3
+    "count": 4,
+    "uniques": 4
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/commit/7dc53d5ac65f300b771e4a4848ef81ea4317d0e6",
     "title": "/commit/7dc53d5ac65f300b771e4a4848ef81ea4317d0e6",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/config.toml",
-    "title": "/blob/master/config.toml",
-    "count": 1,
-    "uniques": 1
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/images/screenshot.png",
@@ -56,6 +50,12 @@
   {
     "path": "/floyd-li/hugo-theme-itheme/commit/916256a550b4e10b26c70350d6992894c2015839",
     "title": "/commit/916256a550b4e10b26c70350d6992894c2015839",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/commit/9336012c08b918103865d0be6bc958caab84bcb8",
+    "title": "/commit/9336012c08b918103865d0be6bc958caab84bcb8",
     "count": 1,
     "uniques": 1
   }

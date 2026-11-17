@@ -2,8 +2,8 @@
   {
     "path": "/floyd-li/hugo-theme-itheme",
     "title": "Overview",
-    "count": 6,
-    "uniques": 6
+    "count": 8,
+    "uniques": 8
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/blob/master/README_CN.md",
@@ -22,12 +22,6 @@
     "title": "/commit/7dc53d5ac65f300b771e4a4848ef81ea4317d0e6",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "path": "/floyd-li/hugo-theme-itheme/blob/master/images/screenshot.png",
-    "title": "/blob/master/images/screenshot.png",
-    "count": 1,
-    "uniques": 1
   },
   {
     "path": "/floyd-li/hugo-theme-itheme/commit/190a6b61dab4440145c1db6fb5aa9ce53d49ce96",
@@ -56,6 +50,12 @@
   {
     "path": "/floyd-li/hugo-theme-itheme/commit/9336012c08b918103865d0be6bc958caab84bcb8",
     "title": "/commit/9336012c08b918103865d0be6bc958caab84bcb8",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/floyd-li/hugo-theme-itheme/commit/965de9f69ca34666b009c99d727957e8052b240f",
+    "title": "/commit/965de9f69ca34666b009c99d727957e8052b240f",
     "count": 1,
     "uniques": 1
   }
